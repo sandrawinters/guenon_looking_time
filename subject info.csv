@@ -1,0 +1,41 @@
+species,group,subject,dob,age.years,sex,origin
+mona,mona1,Whiskey,6/1/2009,6,F,Wild
+mona,mona1,Casper,6/21/2010,5,M,Wild
+mona,mona1,Esai,6/13/2006,9,M,Wild
+mona,mona1,Sandra,8/21/2007,8,F,Wild
+mona,mona2,Katchi,9/1/2000,15,F,Wild
+mona,mona2,Kyle,7/21/2009,6,M,Cercopan
+mona,mona2,Katchi's Baby,4/9/2011,4,M,Cercopan
+mona,mona2,Oscar,8/2/1998,17,M,Wild
+mona,mona3,Billy,1/1/2003,12,M,Wild
+mona,mona3,Akan,9/20/2009,6,M,Wild
+mona,mona3,Eddie,3/1/2010,5,M,Wild
+mona,mona3,Pippi,1/1/2012,3,F,Cercopan
+mona,mona4,Fela,8/21/1991,24,M,Wild
+mona,mona4,JB,3/25/2007,8,M,Wild
+mona,mona4,Precious,2/11/2007,8,F,Wild
+mona,mona4,Mighty Jo,9/18/2010,5,F,Wild
+mona,mona4,Bobierto,12/9/2010,5,M,Wild
+nictitans,nictitans1,Cross,12/19/2005,10,M,Wild
+nictitans,nictitans1,Akampka,8/19/2006,9,M,Wild
+nictitans,nictitans1,Tom,4/18/2007,8,M,Wild
+nictitans,nictitans1,Mimi,6/1/2008,7,F,Wild
+nictitans,nictitans1,Mimi's Baby,3/20/2015,0,F,Cercopan
+nictitans,nictitans2,Jojo,10/1/1994,21,F,Wild
+nictitans,nictitans2,Uche,11/1/1995,20,F,Wild
+nictitans,nictitans2,Happiness,3/22/2003,12,F,Cercopan
+nictitans,nictitans2,Hogan,6/19/2006,9,M,Cercopan
+nictitans,nictitans2,Nzuk-ola,9/1/1999,16,F,Wild
+nictitans,nictitans2,Nacera,9/17/2014,1,F,Cercopan
+nictitans,nictitans3,Ema,1/2/2008,7,F,Wild
+nictitans,nictitans3,Double Chief,8/9/2001,14,M,Wild
+nictitans,nictitans3,Maya,5/1/2009,6,F,Wild
+nictitans,nictitans3,Nkanacha,10/1/1994,21,F,Wild
+nictitans,nictitans3,Tessy,5/17/2004,11,F,Wild
+nictitans,nictitans3,Orocky,4/1/2005,10,F,Wild
+nictitans,nictitans4,Amina,7/1/2003,12,F,Wild
+nictitans,nictitans4,BB,1/1/1993,22,F,Wild
+nictitans,nictitans4,Glory,2/1/2000,15,F,Wild
+nictitans,nictitans4,Ogoja,3/16/2001,14,M,Wild
+nictitans,nictitans4,Sagano,5/5/2007,8,F,Wild
+nictitans,nictitans4,Wizkid,6/1/2012,3,M,Wild
