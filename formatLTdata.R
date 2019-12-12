@@ -5,6 +5,8 @@
 # dat: data frame of raw looking time data (required)
 # secs: seconds of looking to include for each subject; 'all' does not restrict (default = 5)
 # exclude: list of subjects to exclude from returned analyses (default = Mimi's Baby, Nacera, Happiness, Maya, Wizkid, Bobierto)
+    # Mimi's Baby, Nacera, Wizkid, Bobierto - juveniles
+    # Happiness, Maya - didn't participate in all trials
 
 #OUTPUT: 
 # data frame of formatted looking time data
