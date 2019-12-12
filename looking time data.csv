@@ -1,0 +1,2019 @@
+species,trial,video,subject,first,last,look,duration
+mona,1,trial1a,Sandra,2138,2147,L,10
+mona,1,trial1a,Sandra,2148,2153,R,6
+mona,1,trial1a,Sandra,2154,2158,L,5
+mona,1,trial1a,Sandra,2160,2163,R,4
+mona,1,trial1a,Sandra,2218,2218,R,1
+mona,1,trial1a,Sandra,2219,2224,R,6
+mona,1,trial1a,Sandra,2226,2240,L,15
+mona,1,trial1a,Sandra,2241,2280,L,40
+mona,1,trial1a,Sandra,2281,2285,L,5
+mona,1,trial1a,Esai,2309,2311,L,3
+mona,1,trial1a,Esai,2312,2321,R,10
+mona,1,trial1a,Sandra,2361,2396,R,36
+mona,1,trial1a,Sandra,2403,2416,R,14
+mona,1,trial1a,Sandra,2417,2424,L,8
+mona,1,trial1a,Sandra,2425,2429,L,5
+mona,1,trial1a,Sandra,2430,2441,L,12
+mona,1,trial1a,Sandra,2491,2493,L,3
+mona,1,trial1a,Esai,2558,2559,L,2
+mona,1,trial1a,Esai,2562,2563,L,2
+mona,1,trial1a,Esai,2567,2568,L,2
+mona,1,trial1a,Esai,2583,2583,L,1
+mona,1,trial1a,Esai,2584,2587,L,4
+mona,1,trial1a,Esai,2711,2712,R,2
+mona,1,trial1a,Esai,2713,2713,L,1
+mona,1,trial1a,Esai,2714,2718,L,5
+mona,1,trial1a,Esai,2750,2758,L,9
+mona,1,trial1a,Esai,2759,2763,R,5
+mona,1,trial1a,Esai,2767,2770,R,4
+mona,1,trial1a,Esai,2771,2774,L,4
+mona,1,trial1b,Sandra,436,453,L,18
+mona,1,trial1b,Sandra,454,475,R,22
+mona,1,trial1b,Sandra,502,505,L,4
+mona,1,trial1b,Sandra,507,508,R,2
+mona,1,trial1b,Sandra,543,565,R,23
+mona,1,trial1b,Sandra,581,611,L,31
+mona,1,trial1b,Sandra,612,615,L,4
+mona,1,trial1b,Sandra,616,627,L,12
+mona,1,trial1b,Sandra,628,643,R,16
+mona,1,trial1b,Esai,1595,1602,L,8
+mona,1,trial1b,Esai,1604,1609,L,6
+mona,1,trial1b,Esai,1612,1618,R,7
+mona,1,trial1b,Esai,1968,1975,L,8
+mona,1,trial1b,Esai,1977,1981,R,5
+mona,1,trial1c,Whiskey,1337,1337,R,1
+mona,1,trial1c,Casper,4663,4668,R,6
+mona,1,trial1c,Casper,5092,5093,L,2
+mona,1,trial1d,Casper,671,692,L,22
+mona,1,trial1d,Casper,693,698,L,6
+mona,1,trial1d,Casper,940,948,R,9
+mona,1,trial1d,Whiskey,1868,1869,L,2
+mona,1,trial1d,Whiskey,1881,1881,L,1
+mona,1,trial1e,Casper,1981,1981,L,1
+mona,1,trial1f,Casper,1831,1838,L,8
+mona,1,trial1f,Casper,1840,1842,R,3
+mona,1,trial1g,Whiskey,1162,1163,L,2
+mona,1,trial1g,Whiskey,1164,1164,R,1
+mona,1,trial1g,Whiskey,1175,1176,R,2
+mona,1,trial1g,Whiskey,1179,1179,R,1
+mona,1,trial1g,Whiskey,1324,1325,R,2
+mona,1,trial1g,Whiskey,1328,1331,R,4
+mona,1,trial1g,Whiskey,1332,1332,L,1
+mona,1,trial1g,Whiskey,1335,1338,L,4
+mona,1,trial1g,Whiskey,1386,1392,L,7
+mona,1,trial1g,Whiskey,1401,1405,R,5
+mona,1,trial1g,Whiskey,1414,1418,R,5
+mona,1,trial1g,Whiskey,1425,1449,R,25
+mona,1,trial1g,Whiskey,1450,1455,R,6
+mona,1,trial1g,Whiskey,1764,1768,L,5
+mona,1,trial1g,Whiskey,1769,1776,L,8
+mona,1,trial1g,Whiskey,1815,1822,R,8
+mona,1,trial1g,Whiskey,1823,1839,R,17
+mona,1,trial1g,Whiskey,1840,1859,R,20
+mona,2,trial2a,Katchi's Baby,753,762,L,10
+mona,2,trial2a,Katchi's Baby,791,792,R,2
+mona,2,trial2a,Katchi's Baby,793,805,L,13
+mona,2,trial2a,Katchi's Baby,809,841,L,33
+mona,2,trial2a,Katchi's Baby,843,854,R,12
+mona,2,trial2a,Kyle,859,860,R,2
+mona,2,trial2a,Kyle,861,868,L,8
+mona,2,trial2a,Katchi's Baby,869,875,L,7
+mona,2,trial2a,Kyle,869,875,L,7
+mona,2,trial2a,Kyle,881,881,L,1
+mona,2,trial2a,Katchi's Baby,882,892,L,11
+mona,2,trial2a,Kyle,883,901,L,19
+mona,2,trial2a,Katchi's Baby,902,909,R,8
+mona,2,trial2a,Katchi's Baby,910,930,L,21
+mona,2,trial2a,Katchi,989,989,L,1
+mona,2,trial2a,Katchi,990,991,R,2
+mona,2,trial2a,Katchi,992,994,L,3
+mona,2,trial2a,Katchi,996,1001,R,6
+mona,2,trial2a,Katchi,1002,1006,R,5
+mona,2,trial2a,Katchi,1015,1019,L,5
+mona,2,trial2a,Katchi's Baby,1055,1155,L,101
+mona,2,trial2a,Katchi's Baby,1087,1099,L,13
+mona,2,trial2a,Katchi's Baby,1101,1124,R,24
+mona,2,trial2a,Katchi's Baby,1129,1130,R,2
+mona,2,trial2a,Katchi's Baby,1131,1132,L,2
+mona,2,trial2a,Katchi's Baby,1147,1154,R,8
+mona,2,trial2a,Katchi's Baby,1163,1173,L,11
+mona,2,trial2a,Katchi's Baby,1216,1238,R,23
+mona,2,trial2a,Katchi's Baby,1248,1259,R,12
+mona,2,trial2a,Katchi's Baby,1264,1264,R,1
+mona,2,trial2a,Katchi's Baby,1265,1269,L,5
+mona,2,trial2a,Katchi's Baby,1276,1288,L,13
+mona,2,trial2a,Katchi's Baby,1289,1292,L,4
+mona,2,trial2a,Katchi's Baby,1294,1306,L,13
+mona,2,trial2a,Katchi's Baby,1538,1539,L,2
+mona,2,trial2a,Katchi's Baby,1540,1543,R,4
+mona,2,trial2a,Katchi's Baby,1544,1560,L,17
+mona,2,trial2a,Kyle,1883,1889,L,7
+mona,2,trial2a,Kyle,1894,1896,L,3
+mona,2,trial2a,Kyle,1909,1914,L,6
+mona,2,trial2a,Kyle,1915,1921,L,7
+mona,2,trial2a,Kyle,1924,1924,R,1
+mona,2,trial2a,Kyle,1928,1936,R,9
+mona,2,trial2a,Kyle,1958,1959,R,2
+mona,2,trial2a,Katchi,2112,2135,L,24
+mona,2,trial2a,Katchi,2130,2135,L,6
+mona,2,trial2a,Katchi,2137,2148,R,12
+mona,2,trial2a,Katchi,2155,2168,L,14
+mona,2,trial2a,Katchi,2175,2190,L,16
+mona,2,trial2a,Katchi,2232,2233,R,2
+mona,2,trial2a,Katchi,2265,2271,R,7
+mona,2,trial2a,Katchi,2350,2353,R,4
+mona,2,trial2a,Katchi,2355,2362,L,8
+mona,2,trial2b,Katchi's Baby,377,377,L,1
+mona,2,trial2b,Katchi's Baby,387,401,L,15
+mona,2,trial2b,Katchi's Baby,408,408,R,1
+mona,2,trial2b,Katchi's Baby,412,421,L,10
+mona,2,trial2b,Katchi's Baby,584,613,R,30
+mona,2,trial2b,Katchi,1010,1013,L,4
+mona,2,trial2b,Katchi,1031,1058,R,28
+mona,2,trial2b,Katchi,1059,1094,L,36
+mona,2,trial2b,Katchi,1104,1127,R,24
+mona,2,trial2c,Oscar,360,364,L,5
+mona,2,trial2c,Oscar,367,369,L,3
+mona,2,trial2c,Katchi's Baby,393,393,R,1
+mona,2,trial2c,Katchi's Baby,394,405,R,12
+mona,2,trial2d,Katchi's Baby,604,609,R,6
+mona,2,trial2d,Katchi's Baby,628,637,L,10
+mona,2,trial2d,Katchi's Baby,638,647,R,10
+mona,2,trial2e,Katchi's Baby,411,412,R,2
+mona,2,trial2e,Katchi's Baby,442,461,L,20
+mona,2,trial2e,Katchi's Baby,462,468,L,7
+mona,2,trial2e,Katchi's Baby,478,488,L,11
+mona,2,trial2e,Katchi's Baby,489,490,R,2
+mona,2,trial2e,Katchi's Baby,495,499,R,5
+mona,2,trial2f,Oscar,104,105,L,2
+mona,2,trial2f,Oscar,106,110,R,5
+mona,2,trial2f,Oscar,140,148,L,9
+mona,2,trial2f,Katchi,160,170,R,11
+mona,2,trial2f,Katchi's Baby,190,195,R,6
+mona,2,trial2f,Katchi's Baby,196,200,L,5
+mona,2,trial2f,Katchi's Baby,201,205,L,5
+mona,2,trial2f,Katchi's Baby,210,225,L,16
+mona,2,trial2f,Katchi's Baby,226,230,R,5
+mona,2,trial2f,Katchi's Baby,231,234,L,4
+mona,2,trial2f,Katchi's Baby,237,246,R,10
+mona,2,trial2g,Katchi's Baby,1017,1030,L,14
+mona,2,trial2g,Katchi's Baby,1033,1039,R,7
+mona,2,trial2g,Katchi's Baby,1040,1043,R,4
+mona,2,trial2g,Katchi's Baby,1045,1047,L,3
+mona,2,trial2g,Oscar,1346,1349,L,4
+mona,2,trial2g,Oscar,1350,1352,R,3
+mona,2,trial2g,Oscar,1353,1357,L,5
+mona,2,trial2g,Oscar,2522,2525,L,4
+mona,2,trial2g,Oscar,2529,2536,L,8
+mona,2,trial2h,Oscar,183,183,L,1
+mona,2,trial2h,Oscar,185,185,R,1
+mona,2,trial2h,Katchi's Baby,228,229,R,2
+mona,2,trial2h,Katchi's Baby,231,237,L,7
+mona,2,trial2h,Katchi's Baby,306,308,R,3
+mona,2,trial2h,Katchi's Baby,369,373,R,5
+mona,2,trial2h,Katchi's Baby,493,494,L,2
+mona,2,trial2h,Katchi's Baby,496,499,R,4
+mona,2,trial2h,Kyle,942,947,L,6
+mona,2,trial2h,Kyle,948,951,R,4
+mona,2,trial2h,Kyle,952,956,L,5
+mona,2,trial2h,Katchi's Baby,1364,1365,R,2
+mona,2,trial2h,Oscar,1453,1453,L,1
+mona,2,trial2h,Oscar,1554,1557,L,4
+mona,2,trial2h,Katchi's Baby,1753,1754,R,2
+mona,2,trial2h,Oscar,1870,1871,L,2
+mona,2,trial2h,Katchi,2224,2224,L,1
+mona,2,trial2h,Katchi,2238,2241,L,4
+mona,2,trial2h,Katchi,2242,2246,R,5
+mona,2,trial2h,Katchi,2247,2269,L,23
+mona,2,trial2h,Katchi,2270,2274,L,5
+mona,2,trial2h,Katchi,2282,2286,R,5
+mona,2,trial2h,Katchi,2287,2301,R,15
+mona,2,trial2h,Katchi,2302,2308,L,7
+mona,2,trial2h,Oscar,2678,2683,L,6
+mona,2,trial2h,Oscar,2695,2695,L,1
+mona,2,trial2h,Oscar,2696,2698,R,3
+mona,2,trial2h,Oscar,3462,3463,R,2
+mona,2,trial2h,Katchi,3648,3651,L,4
+mona,2,trial2h,Katchi,3652,3654,L,3
+mona,2,trial2h,Katchi,3655,3675,L,21
+mona,2,trial2h,Katchi,3676,3699,R,24
+mona,2,trial2h,Katchi,3707,3719,L,13
+mona,2,trial2h,Oscar,4531,4545,R,15
+mona,2,trial2h,Katchi's Baby,4667,4696,L,30
+mona,2,trial2h,Katchi's Baby,5151,5162,L,12
+mona,2,trial2h,Katchi,6355,6359,R,5
+mona,2,trial2h,Katchi,6360,6366,L,7
+mona,2,trial2h,Katchi,6528,6531,L,4
+mona,2,trial2h,Katchi,6532,6534,R,3
+mona,2,trial2h,Katchi,6570,6570,R,1
+mona,2,trial2h,Katchi,6574,6577,L,4
+mona,2,trial2h,Katchi,6579,6595,R,17
+mona,2,trial2h,Katchi,6602,6602,R,1
+mona,2,trial2h,Katchi,6604,6618,L,15
+mona,2,trial2h,Katchi,6637,6645,L,9
+mona,2,trial2h,Katchi,6675,6680,L,6
+mona,2,trial2h,Katchi,6689,6713,L,25
+mona,2,trial2h,Oscar,6937,6939,L,3
+mona,2,trial2h,Oscar,6940,6951,L,12
+mona,2,trial2h,Oscar,6954,6956,L,3
+mona,2,trial2h,Katchi's Baby,7328,7338,L,11
+mona,2,trial2j,Oscar,714,720,L,7
+mona,3,trial3a,Eddie,1136,1138,R,3
+mona,3,trial3a,Eddie,1140,1144,L,5
+mona,3,trial3a,Eddie,1147,1152,R,6
+mona,3,trial3a,Eddie,1153,1154,L,2
+mona,3,trial3a,Eddie,1155,1159,L,5
+mona,3,trial3a,Eddie,4429,4431,L,3
+mona,3,trial3a,Eddie,4765,4769,L,5
+mona,3,trial3a,Eddie,6039,6053,L,15
+mona,3,trial3a,Eddie,6258,6270,L,13
+mona,3,trial3a,Eddie,6271,6277,L,7
+mona,3,trial3a,Eddie,6335,6335,R,1
+mona,3,trial3a,Eddie,6336,6337,L,2
+mona,3,trial3a,Eddie,6386,6394,L,9
+mona,3,trial3a,Eddie,6396,6400,R,5
+mona,3,trial3b,Billy,407,409,R,3
+mona,3,trial3b,Akan,413,429,L,17
+mona,3,trial3b,Akan,446,470,R,25
+mona,3,trial3b,Akan,645,649,R,5
+mona,3,trial3b,Akan,810,821,R,12
+mona,3,trial3b,Akan,831,837,L,7
+mona,3,trial3b,Billy,1115,1119,R,5
+mona,3,trial3b,Billy,1823,1824,R,2
+mona,3,trial3b,Akan,2678,2679,R,2
+mona,3,trial3b,Akan,2690,2690,L,1
+mona,3,trial3b,Akan,2728,2741,R,14
+mona,3,trial3b,Akan,2768,2770,R,3
+mona,3,trial3b,Akan,2771,2780,R,10
+mona,3,trial3b,Akan,2785,2787,L,3
+mona,3,trial3b,Akan,2790,2793,R,4
+mona,3,trial3b,Akan,2794,2796,L,3
+mona,3,trial3c,Pippi,560,564,L,5
+mona,3,trial3c,Pippi,565,570,R,6
+mona,3,trial3c,Pippi,572,573,R,2
+mona,3,trial3c,Pippi,667,670,R,4
+mona,3,trial3c,Pippi,671,672,L,2
+mona,3,trial3c,Pippi,861,865,L,5
+mona,3,trial3c,Pippi,866,872,R,7
+mona,3,trial3c,Pippi,873,878,L,6
+mona,3,trial3c,Pippi,932,935,R,4
+mona,3,trial3c,Pippi,947,956,R,10
+mona,3,trial3c,Pippi,957,960,L,4
+mona,3,trial3c,Pippi,989,989,L,1
+mona,3,trial3d,Pippi,1438,1444,L,7
+mona,3,trial3d,Pippi,1445,1449,R,5
+mona,3,trial3d,Pippi,1450,1453,L,4
+mona,3,trial3d,Pippi,1459,1459,R,1
+mona,3,trial3d,Pippi,1526,1532,L,7
+mona,3,trial3d,Pippi,1534,1540,R,7
+mona,3,trial3d,Pippi,1541,1554,R,14
+mona,3,trial3d,Pippi,1555,1559,R,5
+mona,4,trial4a,Mighty Jo,1093,1095,L,3
+mona,4,trial4b,Mighty Jo,725,729,L,5
+mona,4,trial4b,Mighty Jo,733,739,L,7
+mona,4,trial4b,Mighty Jo,740,744,R,5
+mona,4,trial4b,Mighty Jo,1729,1734,L,6
+mona,4,trial4c,Fela,1363,1367,L,5
+mona,4,trial4c,Fela,1370,1372,L,3
+mona,4,trial4c,Fela,1374,1377,R,4
+mona,4,trial4c,Fela,1379,1379,R,1
+mona,4,trial4c,Fela,1393,1395,R,3
+mona,4,trial4c,Fela,1396,1400,L,5
+mona,4,trial4c,Fela,1473,1473,R,1
+mona,4,trial4c,Fela,1474,1480,R,7
+mona,4,trial4c,Fela,1481,1491,R,11
+mona,4,trial4c,Fela,1498,1506,L,9
+mona,4,trial4c,Fela,1594,1607,R,14
+mona,4,trial4c,Fela,1609,1611,L,3
+mona,4,trial4c,Fela,3063,3063,R,1
+mona,4,trial4c,Fela,3064,3066,L,3
+mona,4,trial4c,Fela,3068,3070,L,3
+mona,4,trial4c,Fela,3117,3123,R,7
+mona,4,trial4c,Fela,3136,3137,R,2
+mona,4,trial4c,Fela,3138,3149,L,12
+mona,4,trial4d,Fela,2321,2325,L,5
+mona,4,trial4e,Precious,1552,1554,L,3
+mona,4,trial4e,Precious,1555,1566,R,12
+mona,4,trial4e,Precious,1567,1571,L,5
+mona,4,trial4e,Precious,6683,6690,R,8
+mona,4,trial4e,Precious,6693,6696,R,4
+mona,4,trial4e,Precious,6701,6702,L,2
+mona,4,trial4e,Precious,6746,6752,R,7
+mona,4,trial4e,Precious,6754,6758,R,5
+mona,4,trial4e,Precious,6775,6782,L,8
+mona,4,trial4e,Precious,6788,6791,R,4
+mona,4,trial4e,Precious,6799,6803,L,5
+mona,4,trial4e,Precious,6804,6810,L,7
+mona,4,trial4f,Fela,2516,2520,R,5
+mona,4,trial4f,Fela,2522,2529,R,8
+mona,4,trial4f,Fela,2550,2553,L,4
+mona,4,trial4f,Fela,2556,2561,R,6
+mona,4,trial4f,Fela,2562,2624,R,63
+mona,4,trial4f,Fela,2625,2630,L,6
+mona,4,trial4f,Fela,2636,2637,L,2
+mona,4,trial4f,Fela,2641,2642,L,2
+mona,4,trial4f,Fela,2646,2650,L,5
+mona,4,trial4f,Fela,2651,2654,R,4
+mona,4,trial4g,JB,1071,1074,L,4
+mona,4,trial4g,JB,1081,1084,L,4
+mona,4,trial4g,JB,1088,1092,R,5
+mona,4,trial4g,JB,1099,1124,L,26
+mona,4,trial4g,JB,1125,1141,R,17
+mona,4,trial4g,JB,1159,1190,R,32
+mona,4,trial4g,JB,1199,1205,R,7
+mona,4,trial4g,JB,1216,1233,R,18
+mona,4,trial4g,JB,1316,1322,L,7
+mona,4,trial4g,JB,1456,1501,R,46
+mona,4,trial4g,JB,1513,1520,L,8
+mona,4,trial4g,JB,1527,1529,R,3
+mona,4,trial4g,JB,1539,1557,R,19
+mona,4,trial4g,JB,1581,1583,L,3
+mona,4,trial4g,JB,1584,1589,L,6
+mona,4,trial4g,JB,1626,1631,R,6
+mona,4,trial4g,JB,1775,1790,L,16
+mona,4,trial4g,JB,1810,1814,R,5
+mona,4,trial4g,JB,1933,1938,R,6
+mona,4,trial4g,JB,1933,1956,R,24
+mona,4,trial4g,JB,1957,1964,L,8
+mona,4,trial4g,JB,2107,2110,L,4
+mona,4,trial4g,JB,2163,2180,R,18
+mona,4,trial4g,JB,2181,2200,L,20
+mona,4,trial4g,JB,2201,2209,R,9
+mona,4,trial4h,Boberto,7593,7610,L,18
+mona,4,trial4h,Boberto,7611,7616,R,6
+mona,4,trial4h,Boberto,7625,7630,L,6
+mona,4,trial4h,Boberto,7631,7636,R,6
+mona,4,trial4h,Boberto,7637,7640,L,4
+mona,4,trial4h,Boberto,7642,7652,R,11
+mona,4,trial4h,Boberto,7653,7659,L,7
+mona,4,trial4h,Boberto,7668,7690,R,23
+mona,4,trial4h,Boberto,8115,8118,L,4
+mona,4,trial4j,JB,1521,1535,L,15
+mona,4,trial4j,JB,1536,1538,R,3
+mona,4,trial4j,JB,1540,1548,L,9
+mona,4,trial4j,JB,1549,1554,R,6
+mona,4,trial4j,JB,1613,1618,R,6
+mona,4,trial4j,JB,1633,1634,R,2
+mona,4,trial4j,JB,1660,1697,R,38
+mona,4,trial4j,JB,1752,1774,R,23
+mona,4,trial4j,JB,1775,1782,R,8
+mona,4,trial4j,JB,1788,1816,R,29
+mona,4,trial4j,JB,1820,1847,L,28
+mona,4,trial4j,JB,1863,1867,R,5
+mona,4,trial4j,JB,1903,1913,R,11
+mona,4,trial4j,JB,1914,1922,L,9
+mona,4,trial4j,JB,1923,1936,L,14
+mona,4,trial4j,JB,2041,2045,L,5
+mona,4,trial4j,JB,2046,2066,R,21
+mona,4,trial4j,JB,2068,2098,L,31
+mona,4,trial4j,JB,2146,2155,R,10
+mona,4,trial4j,JB,2156,2168,R,13
+mona,4,trial4j,JB,2181,2220,L,40
+mona,4,trial4j,JB,2223,2227,L,5
+mona,4,trial4j,JB,2247,2250,R,4
+mona,4,trial4j,JB,2262,2264,R,3
+mona,4,trial4j,JB,2266,2270,L,5
+mona,4,trial4j,JB,2271,2300,R,30
+mona,4,trial4j,JB,2301,2304,L,4
+mona,4,trial4j,JB,2305,2312,R,8
+mona,4,trial4j,JB,2322,2350,R,29
+mona,4,trial4j,JB,2352,2365,L,14
+mona,4,trial4j,JB,2371,2371,L,1
+mona,4,trial4j,JB,2385,2385,L,1
+mona,4,trial4j,JB,2386,2389,L,4
+mona,4,trial4j,JB,2390,2398,R,9
+mona,5,trial5a,Sandra,267,274,L,8
+mona,5,trial5a,Sandra,275,281,R,7
+mona,5,trial5a,Sandra,324,325,L,2
+mona,5,trial5a,Sandra,333,333,L,1
+mona,5,trial5a,Sandra,334,338,R,5
+mona,5,trial5a,Sandra,348,350,R,3
+mona,5,trial5a,Sandra,356,356,R,1
+mona,5,trial5a,Sandra,356,386,R,31
+mona,5,trial5a,Sandra,473,488,R,16
+mona,5,trial5a,Sandra,489,492,L,4
+mona,5,trial5a,Sandra,499,522,L,24
+mona,5,trial5a,Sandra,533,549,L,17
+mona,5,trial5a,Sandra,550,574,R,25
+mona,5,trial5b,Esai,1061,1064,R,4
+mona,5,trial5b,Esai,1076,1081,R,6
+mona,5,trial5b,Esai,1084,1087,L,4
+mona,5,trial5b,Esai,1091,1093,R,3
+mona,5,trial5b,Esai,1102,1102,L,1
+mona,5,trial5b,Esai,1120,1122,L,3
+mona,5,trial5b,Esai,1130,1133,R,4
+mona,5,trial5b,Esai,1166,1169,R,4
+mona,5,trial5b,Esai,1172,1178,R,7
+mona,5,trial5b,Esai,1180,1183,L,4
+mona,5,trial5b,Esai,1227,1231,L,5
+mona,5,trial5b,Esai,1234,1240,R,7
+mona,5,trial5c,Whiskey,604,605,R,2
+mona,5,trial5c,Whiskey,614,614,R,1
+mona,5,trial5c,Whiskey,616,617,R,2
+mona,5,trial5c,Whiskey,714,719,L,6
+mona,5,trial5c,Whiskey,720,722,R,3
+mona,5,trial5c,Casper,890,950,L,61
+mona,5,trial5c,Casper,951,960,R,10
+mona,5,trial5c,Casper,970,975,R,6
+mona,5,trial5c,Casper,983,985,L,3
+mona,5,trial5c,Whiskey,983,985,R,3
+mona,5,trial5c,Whiskey,988,993,R,6
+mona,5,trial5c,Casper,988,1008,R,21
+mona,5,trial5c,Whiskey,1007,1016,R,10
+mona,5,trial5c,Whiskey,1021,1045,R,25
+mona,5,trial5c,Casper,1022,1029,L,8
+mona,5,trial5c,Casper,1030,1055,L,26
+mona,5,trial5c,Casper,1058,1068,R,11
+mona,5,trial5c,Whiskey,1060,1074,L,15
+mona,5,trial5c,Casper,1380,1384,R,5
+mona,5,trial5c,Casper,1404,1407,L,4
+mona,5,trial5c,Whiskey,1583,1588,L,6
+mona,5,trial5c,Whiskey,1589,1589,R,1
+mona,5,trial5c,Whiskey,1598,1600,L,3
+mona,5,trial5c,Whiskey,1601,1604,R,4
+mona,5,trial5c,Whiskey,1605,1608,L,4
+mona,5,trial5c,Whiskey,1609,1614,L,6
+mona,5,trial5c,Whiskey,1982,1987,R,6
+mona,5,trial5c,Whiskey,2000,2002,L,3
+mona,5,trial5c,Whiskey,2007,2010,R,4
+mona,5,trial5c,Whiskey,2088,2088,L,1
+mona,5,trial5c,Whiskey,2090,2090,R,1
+mona,5,trial5c,Casper,2131,2132,L,2
+mona,5,trial5c,Whiskey,2132,2132,L,1
+mona,5,trial5c,Whiskey,2141,2141,L,1
+mona,5,trial5c,Casper,2165,2179,R,15
+mona,5,trial5c,Whiskey,2176,2182,L,7
+mona,5,trial5c,Casper,2188,2205,L,18
+mona,5,trial5c,Casper,2887,2888,R,2
+mona,5,trial5c,Casper,2889,2933,L,45
+mona,5,trial5c,Whiskey,2946,2951,L,6
+mona,5,trial5c,Whiskey,2952,2961,R,10
+mona,5,trial5c,Casper,2954,2977,R,24
+mona,5,trial5c,Whiskey,2962,3020,L,59
+mona,5,trial5c,Casper,2978,2978,L,1
+mona,5,trial5c,Casper,2987,3003,L,17
+mona,5,trial5c,Casper,3004,3004,R,1
+mona,5,trial5c,Casper,3013,3035,R,23
+mona,5,trial5c,Whiskey,3021,3027,L,7
+mona,5,trial5c,Whiskey,3028,3032,R,5
+mona,5,trial5c,Whiskey,3033,3044,L,12
+mona,5,trial5c,Casper,3036,3059,R,24
+mona,5,trial5c,Whiskey,3046,3058,R,13
+mona,5,trial5c,Whiskey,3059,3063,L,5
+mona,5,trial5c,Casper,3061,3074,R,14
+mona,5,trial5c,Whiskey,3065,3067,R,3
+mona,5,trial5c,Whiskey,3068,3221,L,154
+mona,5,trial5c,Casper,3075,3088,R,14
+mona,5,trial5c,Casper,3179,3199,L,21
+mona,5,trial5c,Casper,3218,3223,R,6
+mona,6,trial6a,Kyle,212,212,R,1
+mona,6,trial6a,Kyle,213,217,L,5
+mona,6,trial6a,Kyle,218,219,R,2
+mona,6,trial6a,Kyle,223,223,L,1
+mona,6,trial6a,Katchi's Baby,237,250,R,14
+mona,6,trial6a,Katchi's Baby,260,263,R,4
+mona,6,trial6a,Katchi's Baby,275,292,L,18
+mona,6,trial6a,Kyle,334,335,L,2
+mona,6,trial6a,Kyle,345,354,L,10
+mona,6,trial6a,Kyle,357,365,R,9
+mona,6,trial6a,Katchi's Baby,364,368,L,5
+mona,6,trial6a,Katchi,371,373,L,3
+mona,6,trial6a,Katchi's Baby,375,375,L,1
+mona,6,trial6a,Katchi,379,379,R,1
+mona,6,trial6a,Katchi,380,391,L,12
+mona,6,trial6a,Katchi,392,406,R,15
+mona,6,trial6a,Katchi,730,735,L,6
+mona,6,trial6a,Katchi,736,753,R,18
+mona,6,trial6a,Katchi,756,761,L,6
+mona,6,trial6a,Katchi's Baby,834,841,L,8
+mona,6,trial6a,Katchi's Baby,842,843,L,2
+mona,6,trial6a,Katchi's Baby,1154,1154,R,1
+mona,6,trial6a,Katchi's Baby,1326,1336,R,11
+mona,6,trial6a,Katchi's Baby,1390,1398,L,9
+mona,6,trial6a,Katchi's Baby,1399,1407,R,9
+mona,6,trial6a,Katchi's Baby,1411,1428,L,18
+mona,6,trial6a,Katchi's Baby,1430,1438,R,9
+mona,6,trial6a,Katchi's Baby,1439,1443,L,5
+mona,6,trial6a,Kyle,2161,2164,L,4
+mona,6,trial6a,Kyle,2165,2170,R,6
+mona,6,trial6a,Katchi,2167,2171,L,5
+mona,6,trial6a,Katchi,2174,2182,L,9
+mona,6,trial6a,Katchi,2188,2193,L,6
+mona,6,trial6a,Katchi,2194,2208,L,15
+mona,6,trial6a,Katchi,2213,2234,L,22
+mona,6,trial6a,Katchi,2238,2241,L,4
+mona,6,trial6a,Katchi's Baby,2280,2282,L,3
+mona,6,trial6a,Katchi's Baby,2284,2288,L,5
+mona,6,trial6b,Katchi's Baby,282,282,R,1
+mona,6,trial6b,Katchi's Baby,288,288,L,1
+mona,6,trial6b,Katchi's Baby,290,291,R,2
+mona,6,trial6b,Katchi's Baby,301,309,L,9
+mona,6,trial6b,Katchi's Baby,315,327,L,13
+mona,6,trial6b,Katchi's Baby,1854,1858,L,5
+mona,6,trial6b,Katchi's Baby,1869,1871,R,3
+mona,6,trial6b,Katchi's Baby,1875,1877,R,3
+mona,6,trial6b,Katchi's Baby,1884,1896,L,13
+mona,6,trial6b,Katchi's Baby,1897,1900,R,4
+mona,6,trial6b,Kyle,1999,2000,L,2
+mona,6,trial6d,Katchi,930,934,R,5
+mona,6,trial6d,Katchi,935,942,L,8
+mona,6,trial6d,Katchi,943,952,L,10
+mona,6,trial6d,Katchi,953,959,R,7
+mona,6,trial6d,Katchi,962,963,R,2
+mona,6,trial6d,Katchi,965,969,L,5
+mona,6,trial6d,Katchi,970,983,R,14
+mona,6,trial6d,Katchi,986,986,L,1
+mona,6,trial6d,Katchi,990,994,R,5
+mona,6,trial6d,Katchi,1004,1014,R,11
+mona,6,trial6d,Katchi,1987,2003,L,17
+mona,6,trial6d,Katchi,2017,2017,R,1
+mona,6,trial6d,Katchi,2020,2027,R,8
+mona,6,trial6d,Katchi,2033,2034,R,2
+mona,6,trial6d,Katchi,2209,2211,L,3
+mona,6,trial6d,Oscar,2451,2452,R,2
+mona,6,trial6d,Oscar,2458,2469,L,12
+mona,6,trial6e,Oscar,337,339,L,3
+mona,6,trial6f,Kyle,1495,1505,L,11
+mona,6,trial6f,Kyle,1516,1516,R,1
+mona,6,trial6f,Kyle,1521,1524,L,4
+mona,6,trial6f,Kyle,1526,1534,R,9
+mona,6,trial6g,Kyle,1884,1887,R,4
+mona,6,trial6g,Kyle,1888,1891,L,4
+mona,6,trial6g,Kyle,1892,1895,R,4
+mona,6,trial6g,Kyle,2383,2388,R,6
+mona,6,trial6g,Kyle,2389,2389,L,1
+mona,6,trial6g,Kyle,2398,2403,L,6
+mona,6,trial6g,Kyle,2404,2405,R,2
+mona,6,trial6g,Kyle,2410,2416,R,7
+mona,6,trial6g,Kyle,2417,2429,L,13
+mona,6,trial6i,Oscar,1633,1634,L,2
+mona,6,trial6j,Oscar,195,197,R,3
+mona,6,trial6j,Oscar,198,200,L,3
+mona,6,trial6l,Oscar,2323,2327,L,5
+mona,6,trial6l,Oscar,2328,2332,R,5
+mona,6,trial6l,Oscar,2554,2554,R,1
+mona,6,trial6l,Oscar,2557,2560,R,4
+mona,6,trial6m,Oscar,2188,2201,R,14
+mona,6,trial6m,Oscar,2202,2215,L,14
+mona,6,trial6n,Oscar,1231,1231,L,1
+mona,6,trial6n,Oscar,1232,1244,R,13
+mona,6,trial6n,Oscar,1459,1464,R,6
+mona,6,trial6n,Oscar,1466,1471,R,6
+mona,6,trial6n,Oscar,1477,1501,R,25
+mona,6,trial6n,Oscar,1503,1535,L,33
+mona,6,trial6n,Oscar,1536,1559,R,24
+mona,6,trial6n,Oscar,1560,1585,L,26
+mona,6,trial6n,Oscar,1593,1648,L,56
+mona,6,trial6n,Oscar,1655,1668,R,14
+mona,6,trial6n,Oscar,1698,1702,L,5
+mona,6,trial6n,Oscar,1703,1750,R,48
+mona,6,trial6o,Kyle,313,317,L,5
+mona,6,trial6o,Kyle,321,322,L,2
+mona,6,trial6o,Kyle,332,359,L,28
+mona,6,trial6o,Kyle,360,370,R,11
+mona,6,trial6o,Kyle,371,375,L,5
+mona,6,trial6o,Kyle,381,381,R,1
+mona,6,trial6o,Kyle,384,388,L,5
+mona,7,trial7b,Eddie,2173,2173,R,1
+mona,7,trial7b,Eddie,2177,2179,L,3
+mona,7,trial7c,Akan,438,442,L,5
+mona,7,trial7c,Akan,443,443,R,1
+mona,7,trial7c,Akan,446,447,R,2
+mona,7,trial7c,Akan,488,488,L,1
+mona,7,trial7c,Akan,495,499,L,5
+mona,7,trial7c,Billy,523,523,L,1
+mona,7,trial7c,Akan,523,529,R,7
+mona,7,trial7c,Billy,526,530,L,5
+mona,7,trial7c,Billy,531,537,R,7
+mona,7,trial7c,Akan,533,539,L,7
+mona,7,trial7c,Billy,538,543,L,6
+mona,7,trial7c,Akan,541,546,R,6
+mona,7,trial7c,Billy,1103,1107,R,5
+mona,7,trial7c,Billy,1109,1114,L,6
+mona,7,trial7c,Billy,1115,1121,R,7
+mona,7,trial7c,Billy,1136,1139,R,4
+mona,7,trial7c,Billy,1141,1150,R,10
+mona,7,trial7c,Billy,1151,1155,R,5
+mona,7,trial7c,Billy,1226,1228,R,3
+mona,7,trial7c,Akan,1276,1277,L,2
+mona,7,trial7c,Akan,1320,1324,R,5
+mona,7,trial7c,Akan,1329,1330,R,2
+mona,7,trial7c,Akan,1332,1338,L,7
+mona,7,trial7c,Akan,1339,1364,R,26
+mona,7,trial7c,Akan,1367,1367,R,1
+mona,7,trial7c,Akan,1374,1380,R,7
+mona,7,trial7c,Akan,1383,1398,R,16
+mona,7,trial7c,Akan,1400,1421,L,22
+mona,7,trial7c,Akan,1423,1423,L,1
+mona,7,trial7c,Billy,2066,2076,R,11
+mona,7,trial7c,Billy,2077,2079,L,3
+mona,7,trial7c,Billy,2200,2208,R,9
+mona,7,trial7c,Billy,2218,2221,L,4
+mona,7,trial7c,Billy,2223,2233,R,11
+mona,7,trial7d,Pippi,319,326,L,8
+mona,7,trial7f,Eddie,210,210,R,1
+mona,7,trial7f,Eddie,212,216,L,5
+mona,7,trial7f,Eddie,219,238,R,20
+mona,7,trial7f,Eddie,243,250,R,8
+mona,7,trial7f,Eddie,252,261,L,10
+mona,7,trial7f,Eddie,262,271,R,10
+mona,7,trial7f,Eddie,272,281,L,10
+mona,7,trial7f,Eddie,283,297,R,15
+mona,7,trial7f,Eddie,298,309,L,12
+mona,7,trial7f,Eddie,317,317,R,1
+mona,7,trial7f,Eddie,346,366,R,21
+mona,7,trial7f,Eddie,397,424,R,28
+mona,7,trial7f,Eddie,425,432,L,8
+mona,7,trial7f,Eddie,433,439,R,7
+mona,7,trial7f,Eddie,441,453,L,13
+mona,7,trial7f,Eddie,495,498,L,4
+mona,7,trial7f,Eddie,499,547,R,49
+mona,7,trial7f,Eddie,557,562,L,6
+mona,7,trial7f,Eddie,563,591,L,29
+mona,7,trial7f,Eddie,593,604,R,12
+mona,7,trial7f,Eddie,613,619,R,7
+mona,7,trial7f,Eddie,621,641,L,21
+mona,7,trial7f,Eddie,643,656,R,14
+mona,7,trial7g,Pippi,1242,1245,R,4
+mona,7,trial7g,Pippi,1247,1251,L,5
+mona,7,trial7h,Pippi,384,385,R,2
+mona,7,trial7h,Pippi,389,389,R,1
+mona,7,trial7h,Pippi,401,404,R,4
+mona,7,trial7h,Pippi,415,416,R,2
+mona,7,trial7h,Pippi,419,429,R,11
+mona,7,trial7h,Pippi,430,434,L,5
+mona,7,trial7h,Pippi,646,646,L,1
+mona,7,trial7i,Pippi,236,237,R,2
+mona,7,trial7i,Pippi,244,245,L,2
+mona,7,trial7i,Pippi,365,367,R,3
+mona,7,trial7i,Pippi,368,374,L,7
+mona,7,trial7i,Pippi,375,378,R,4
+mona,7,trial7i,Pippi,386,392,L,7
+mona,7,trial7i,Pippi,427,434,R,8
+mona,7,trial7i,Pippi,436,454,L,19
+mona,7,trial7i,Pippi,456,471,R,16
+mona,8,trial8a,Mighty Jo,272,273,R,2
+mona,8,trial8a,Mighty Jo,326,326,R,1
+mona,8,trial8a,Mighty Jo,329,329,R,1
+mona,8,trial8a,Mighty Jo,331,331,R,1
+mona,8,trial8a,Mighty Jo,335,339,R,5
+mona,8,trial8a,Mighty Jo,340,352,R,13
+mona,8,trial8a,Mighty Jo,367,377,L,11
+mona,8,trial8a,Precious,605,608,R,4
+mona,8,trial8a,Precious,610,614,R,5
+mona,8,trial8a,Precious,617,619,L,3
+mona,8,trial8a,Precious,620,623,R,4
+mona,8,trial8a,Mighty Jo,629,632,L,4
+mona,8,trial8a,Mighty Jo,633,642,R,10
+mona,8,trial8a,Mighty Jo,643,647,L,5
+mona,8,trial8a,Mighty Jo,648,658,L,11
+mona,8,trial8a,Mighty Jo,1645,1647,R,3
+mona,8,trial8a,Mighty Jo,1648,1653,L,6
+mona,8,trial8a,Mighty Jo,1706,1713,L,8
+mona,8,trial8a,Mighty Jo,3522,3530,R,9
+mona,8,trial8a,Mighty Jo,3532,3535,L,4
+mona,8,trial8a,Mighty Jo,3546,3550,R,5
+mona,8,trial8a,Precious,3964,3966,R,3
+mona,8,trial8a,Precious,3972,3972,R,1
+mona,8,trial8a,Precious,3986,3988,L,3
+mona,8,trial8b,Fela,1072,1082,R,11
+mona,8,trial8b,Fela,1084,1092,L,9
+mona,8,trial8b,Fela,1110,1120,R,11
+mona,8,trial8b,Fela,1340,1345,R,6
+mona,8,trial8b,Fela,1350,1352,L,3
+mona,8,trial8b,Fela,1354,1358,R,5
+mona,8,trial8c,JB,3000,3002,R,3
+mona,8,trial8c,JB,3015,3061,R,47
+mona,8,trial8c,JB,3369,3377,R,9
+mona,8,trial8c,JB,3379,3384,L,6
+mona,8,trial8c,JB,3394,3395,R,2
+mona,8,trial8c,JB,3396,3397,L,2
+mona,8,trial8c,JB,3423,3425,L,3
+mona,8,trial8c,JB,4581,4593,R,13
+mona,8,trial8c,JB,4594,4597,L,4
+mona,8,trial8c,JB,4599,4602,L,4
+mona,8,trial8c,JB,4603,4612,R,10
+mona,8,trial8c,JB,4715,4725,L,11
+mona,8,trial8c,JB,4726,4730,R,5
+mona,8,trial8c,JB,4731,4740,L,10
+mona,8,trial8c,JB,4747,4751,L,5
+mona,8,trial8c,JB,4748,4751,R,4
+mona,8,trial8c,JB,6065,6082,R,18
+mona,8,trial8c,JB,6085,6085,R,1
+mona,8,trial8c,JB,6153,6153,R,1
+mona,8,trial8c,JB,6156,6158,R,3
+mona,8,trial8c,JB,6366,6366,L,1
+mona,8,trial8c,JB,6367,6373,R,7
+mona,8,trial8c,JB,6384,6386,L,3
+mona,8,trial8c,JB,6433,6435,R,3
+mona,8,trial8c,JB,6476,6507,R,32
+mona,8,trial8c,JB,6511,6514,L,4
+mona,8,trial8c,JB,6524,6527,R,4
+mona,8,trial8d,JB,601,607,R,7
+mona,8,trial8d,JB,638,645,L,8
+mona,8,trial8d,JB,646,652,R,7
+mona,8,trial8d,JB,653,657,L,5
+mona,8,trial8d,JB,659,662,R,4
+mona,8,trial8d,JB,664,669,L,6
+mona,8,trial8d,JB,671,673,R,3
+mona,8,trial8d,JB,675,695,L,21
+mona,8,trial8d,JB,696,717,R,22
+mona,8,trial8d,JB,751,755,L,5
+mona,8,trial8d,JB,759,760,L,2
+mona,8,trial8d,JB,795,797,R,3
+mona,8,trial8d,JB,804,804,R,1
+mona,8,trial8d,JB,805,814,L,10
+mona,8,trial8d,JB,922,928,L,7
+mona,8,trial8d,JB,1104,1106,R,3
+mona,8,trial8d,JB,1151,1158,R,8
+mona,8,trial8e,Fela,233,248,R,16
+mona,8,trial8e,Fela,249,266,L,18
+mona,8,trial8e,JB,732,733,R,2
+mona,8,trial8e,Fela,736,737,R,2
+mona,8,trial8e,Fela,739,743,R,5
+mona,8,trial8e,Fela,744,760,L,17
+mona,8,trial8e,Fela,762,799,R,38
+mona,8,trial8e,Fela,800,822,L,23
+mona,8,trial8e,Fela,828,837,R,10
+mona,9,trial9a,Sandra,1550,1551,L,2
+mona,9,trial9a,Sandra,1552,1553,R,2
+mona,9,trial9a,Sandra,1565,1573,L,9
+mona,9,trial9a,Sandra,1574,1587,R,14
+mona,9,trial9a,Sandra,1588,1599,L,12
+mona,9,trial9a,Sandra,1604,1608,L,5
+mona,9,trial9a,Sandra,1615,1619,L,5
+mona,9,trial9a,Sandra,1624,1628,L,5
+mona,9,trial9b,Sandra,1267,1305,R,39
+mona,9,trial9b,Sandra,1309,1314,L,6
+mona,9,trial9b,Sandra,1327,1339,L,13
+mona,9,trial9b,Sandra,1351,1354,R,4
+mona,9,trial9b,Sandra,1357,1361,L,5
+mona,9,trial9b,Sandra,1367,1370,L,4
+mona,9,trial9b,Sandra,1378,1395,R,18
+mona,9,trial9b,Sandra,1397,1398,R,2
+mona,9,trial9b,Sandra,1461,1470,L,10
+mona,9,trial9c ,Esai,138,146,L,9
+mona,9,trial9c ,Esai,147,150,R,4
+mona,9,trial9c ,Tessy,295,306,L,12
+mona,9,trial9c ,Esai,695,697,L,3
+mona,9,trial9c ,Esai,698,704,R,7
+mona,9,trial9c ,Esai,705,713,L,9
+mona,9,trial9c ,Esai,728,752,R,25
+mona,9,trial9c ,Esai,755,761,L,7
+mona,9,trial9c ,Esai,763,766,L,4
+mona,9,trial9c ,Tessy,1001,1003,R,3
+mona,9,trial9c ,Tessy,1005,1010,R,6
+mona,9,trial9d,Casper,893,894,R,2
+mona,9,trial9d,Casper,895,902,L,8
+mona,9,trial9d,Casper,911,914,L,4
+mona,9,trial9d,Casper,915,924,R,10
+mona,9,trial9d,Casper,1016,1016,L,1
+mona,9,trial9d,Whiskey,1473,1475,R,3
+mona,9,trial9d,Whiskey,1478,1482,L,5
+mona,9,trial9d,Whiskey,1581,1585,L,5
+mona,9,trial9d,Whiskey,1599,1601,L,3
+mona,9,trial9d,Whiskey,1606,1622,L,17
+mona,9,trial9d,Whiskey,1628,1633,R,6
+mona,9,trial9d,Whiskey,1634,1640,L,7
+mona,9,trial9d,Whiskey,1658,1663,R,6
+mona,9,trial9d,Whiskey,1680,1688,R,9
+mona,9,trial9d,Whiskey,1690,1695,L,6
+mona,9,trial9d,Whiskey,1696,1709,L,14
+mona,9,trial9d,Whiskey,1710,1715,L,6
+mona,9,trial9d,Whiskey,1716,1731,R,16
+mona,9,trial9d,Casper,1767,1770,R,4
+mona,9,trial9d,Casper,1771,1771,R,1
+mona,9,trial9d,Casper,1772,1779,L,8
+mona,9,trial9d,Casper,1781,1786,R,6
+mona,9,trial9d,Casper,1820,1822,R,3
+mona,9,trial9d,Casper,1830,1843,R,14
+mona,9,trial9d,Casper,1873,1911,R,39
+mona,9,trial9d,Casper,1927,1927,R,1
+mona,9,trial9d,Casper,1928,1938,L,11
+mona,9,trial9d,Casper,2105,2106,R,2
+mona,9,trial9e,Casper,287,293,R,7
+mona,9,trial9e,Casper,294,301,L,8
+mona,9,trial9e,Casper,382,382,R,1
+mona,9,trial9e,Casper,383,386,L,4
+mona,9,trial9e,Whiskey,652,659,L,8
+mona,9,trial9e,Whiskey,660,680,R,21
+mona,9,trial9e,Whiskey,686,710,R,25
+mona,9,trial9e,Whiskey,711,719,R,9
+mona,9,trial9e,Whiskey,720,723,R,4
+mona,9,trial9e,Whiskey,724,730,R,7
+mona,9,trial9e,Whiskey,731,756,R,26
+mona,9,trial9e,Whiskey,762,771,R,10
+mona,9,trial9e,Whiskey,809,827,L,19
+mona,9,trial9e,Whiskey,828,854,R,27
+mona,9,trial9e,Whiskey,855,869,R,15
+mona,9,trial9e,Whiskey,870,876,R,7
+mona,9,trial9e,Casper,3297,3298,L,2
+mona,9,trial9e,Casper,3300,3302,R,3
+mona,10,trial10a,Katchi's Baby,817,822,L,6
+mona,10,trial10a,Katchi's Baby,824,826,R,3
+mona,10,trial10a,Katchi's Baby,835,836,R,2
+mona,10,trial10a,Katchi's Baby,839,839,R,1
+mona,10,trial10a,Kyle,888,890,L,3
+mona,10,trial10a,Kyle,891,914,L,24
+mona,10,trial10a,Kyle,938,961,L,24
+mona,10,trial10a,Kyle,963,964,R,2
+mona,10,trial10a,Kyle,968,983,L,16
+mona,10,trial10a,Kyle,991,993,L,3
+mona,10,trial10a,Kyle,999,1002,L,4
+mona,10,trial10a,Katchi's Baby,1023,1029,R,7
+mona,10,trial10a,Kyle,1026,1030,R,5
+mona,10,trial10a,Katchi's Baby,1030,1105,R,76
+mona,10,trial10a,Katchi's Baby,1287,1296,L,10
+mona,10,trial10a,Katchi's Baby,1301,1307,L,7
+mona,10,trial10a,Katchi,1507,1507,R,1
+mona,10,trial10a,Katchi,1508,1508,L,1
+mona,10,trial10a,Katchi,1514,1517,L,4
+mona,10,trial10a,Katchi,1522,1526,R,5
+mona,10,trial10a,Katchi,1528,1556,R,29
+mona,10,trial10a,Katchi,1557,1563,L,7
+mona,10,trial10a,Katchi,1566,1577,R,12
+mona,10,trial10a,Katchi,1586,1596,R,11
+mona,10,trial10a,Katchi,1597,1608,R,12
+mona,10,trial10a,Katchi,1609,1613,L,5
+mona,10,trial10a,Katchi's Baby,1673,1673,R,1
+mona,10,trial10a,Katchi,1680,1682,R,3
+mona,10,trial10a,Katchi's Baby,1681,1682,R,2
+mona,10,trial10a,Katchi's Baby,1689,1691,R,3
+mona,10,trial10a,Katchi's Baby,1696,1699,R,4
+mona,10,trial10a,Katchi's Baby,1714,1719,R,6
+mona,10,trial10a,Katchi's Baby,1721,1726,L,6
+mona,10,trial10a,Katchi's Baby,1727,1730,R,4
+mona,10,trial10a,Katchi's Baby,1732,1735,L,4
+mona,10,trial10a,Katchi's Baby,1776,1778,R,3
+mona,10,trial10a,Katchi's Baby,1815,1850,R,36
+mona,10,trial10a,Kyle,2076,2081,L,6
+mona,10,trial10a,Katchi's Baby,2168,2170,L,3
+mona,10,trial10b,Katchi,287,287,L,1
+mona,10,trial10b,Katchi,290,290,L,1
+mona,10,trial10b,Katchi,291,297,R,7
+mona,10,trial10b,Katchi,300,313,R,14
+mona,10,trial10b,Katchi,316,320,L,5
+mona,10,trial10b,Kyle,936,944,L,9
+mona,10,trial10b,Kyle,945,949,R,5
+mona,10,trial10b,Kyle,980,994,R,15
+mona,10,trial10b,Kyle,995,1007,L,13
+mona,10,trial10b,Kyle,1008,1013,L,6
+mona,10,trial10b,Kyle,1019,1028,R,10
+mona,10,trial10b,Oscar,1919,1920,L,2
+mona,10,trial10c,Katchi's Baby,231,238,L,8
+mona,10,trial10c,Katchi's Baby,239,242,R,4
+mona,10,trial10c,Katchi's Baby,243,246,L,4
+mona,10,trial10c,Katchi's Baby,266,270,L,5
+mona,10,trial10c,Katchi's Baby,271,320,L,50
+mona,10,trial10c,Katchi's Baby,339,346,L,8
+mona,10,trial10c,Katchi's Baby,404,404,R,1
+mona,10,trial10c,Katchi's Baby,405,407,L,3
+mona,10,trial10c,Katchi's Baby,408,414,L,7
+mona,10,trial10c,Katchi's Baby,527,529,L,3
+mona,10,trial10d,Katchi,318,320,L,3
+mona,10,trial10d,Oscar,330,336,L,7
+mona,10,trial10d,Katchi,458,525,L,68
+mona,10,trial10d,Katchi,535,558,L,24
+mona,10,trial10d,Katchi,559,565,L,7
+mona,10,trial10d,Katchi,567,571,R,5
+mona,10,trial10d,Katchi,572,577,L,6
+mona,10,trial10d,Katchi,579,602,R,24
+mona,10,trial10d,Katchi,633,745,L,113
+mona,10,trial10e,Oscar,1822,1822,R,1
+mona,10,trial10e,Oscar,1827,1836,R,10
+mona,10,trial10e,Katchi,2038,2064,L,27
+mona,10,trial10e,Oscar,2230,2231,L,2
+mona,10,trial10e,Oscar,2233,2233,L,1
+mona,10,trial10e,Oscar,2238,2241,L,4
+mona,10,trial10e,Oscar,2242,2250,R,9
+mona,10,trial10e,Oscar,2251,2266,L,16
+mona,10,trial10e,Katchi,2264,2271,R,8
+mona,10,trial10e,Oscar,2267,2269,R,3
+mona,10,trial10e,Katchi,2272,2283,L,12
+mona,10,trial10e,Katchi,2284,2375,R,92
+mona,10,trial10e,Oscar,2603,2606,L,4
+mona,10,trial10e,Oscar,2607,2616,R,10
+mona,10,trial10e,Oscar,2633,2635,L,3
+mona,10,trial10e,Oscar,2636,2642,L,7
+mona,10,trial10e,Oscar,2643,2653,R,11
+mona,10,trial10e,Katchi,3046,3049,L,4
+mona,10,trial10e,Katchi,3050,3149,R,100
+mona,10,trial10e,Katchi's Baby,3184,3212,L,29
+mona,10,trial10e,Katchi's Baby,3268,3284,L,17
+mona,10,trial10e,Katchi's Baby,3618,3620,L,3
+mona,11,trial11a,Billy,760,777,L,18
+mona,11,trial11a,Billy,779,821,R,43
+mona,11,trial11b,Akan,341,344,R,4
+mona,11,trial11b,Akan,349,353,R,5
+mona,11,trial11b,Akan,368,378,R,11
+mona,11,trial11b,Akan,380,392,L,13
+mona,11,trial11b,Akan,398,423,L,26
+mona,11,trial11b,Akan,424,429,R,6
+mona,11,trial11b,Akan,431,437,L,7
+mona,11,trial11b,Billy,1061,1063,R,3
+mona,11,trial11b,Billy,1075,1090,R,16
+mona,11,trial11b,Billy,1110,1120,R,11
+mona,11,trial11b,Billy,1307,1310,L,4
+mona,11,trial11c,Akan,718,719,R,2
+mona,11,trial11c,Akan,746,750,R,5
+mona,11,trial11c,Akan,812,824,R,13
+mona,11,trial11c,Akan,872,873,R,2
+mona,11,trial11c,Akan,875,897,R,23
+mona,11,trial11c,Akan,947,948,L,2
+mona,11,trial11c,Akan,1127,1130,R,4
+mona,11,trial11c,Akan,1139,1142,R,4
+mona,11,trial11c,Akan,1151,1166,R,16
+mona,11,trial11c,Akan,1174,1183,R,10
+mona,11,trial11d,Eddie,2054,2076,L,23
+mona,11,trial11d,Eddie,2079,2084,L,6
+mona,11,trial11d,Eddie,2085,2089,R,5
+mona,11,trial11d,Eddie,2099,2102,R,4
+mona,11,trial11d,Eddie,2104,2112,L,9
+mona,11,trial11d,Eddie,2134,2161,R,28
+mona,11,trial11d,Eddie,2162,2186,L,25
+mona,11,trial11d,Eddie,2265,2273,R,9
+mona,11,trial11d,Eddie,2274,2278,L,5
+mona,11,trial11d,Eddie,2279,2293,R,15
+mona,11,trial11d,Eddie,2303,2313,L,11
+mona,11,trial11d,Eddie,2315,2320,L,6
+mona,11,trial11d,Eddie,2371,2387,R,17
+mona,11,trial11d,Eddie,2443,2480,R,38
+mona,11,trial11d,Eddie,2529,2538,R,10
+mona,11,trial11d,Eddie,2539,2544,R,6
+mona,11,trial11d,Eddie,2545,2555,R,11
+mona,11,trial11d,Eddie,2566,2581,R,16
+mona,11,trial11d,Eddie,2592,2604,R,13
+mona,11,trial11e,Pippi,605,611,R,7
+mona,11,trial11e,Pippi,612,620,L,9
+mona,11,trial11e,Pippi,637,637,L,1
+mona,11,trial11e,Pippi,638,641,L,4
+mona,12,trial12a,Precious,614,614,R,1
+mona,12,trial12a,Precious,615,622,L,8
+mona,12,trial12a,Precious,628,632,R,5
+mona,12,trial12a,Precious,656,664,L,9
+mona,12,trial12a,Precious,665,673,R,9
+mona,12,trial12a,Mighty Jo,689,691,R,3
+mona,12,trial12a,Mighty Jo,692,694,L,3
+mona,12,trial12a,Mighty Jo,696,712,L,17
+mona,12,trial12a,Mighty Jo,761,779,L,19
+mona,12,trial12a,Mighty Jo,786,792,R,7
+mona,12,trial12a,Mighty Jo,793,799,L,7
+mona,12,trial12a,Mighty Jo,804,804,L,1
+mona,12,trial12a,Mighty Jo,805,809,L,5
+mona,12,trial12a,Mighty Jo,853,856,R,4
+mona,12,trial12a,Mighty Jo,857,863,R,7
+mona,12,trial12a,Mighty Jo,892,898,L,7
+mona,12,trial12b,Fela,452,453,L,2
+mona,12,trial12b,Fela,489,498,R,10
+mona,12,trial12b,Fela,619,620,L,2
+mona,12,trial12b,JB,937,942,R,6
+mona,12,trial12b,JB,944,944,R,1
+mona,12,trial12b,JB,950,950,R,1
+mona,12,trial12b,JB,951,955,L,5
+mona,12,trial12b,JB,956,957,R,2
+mona,12,trial12b,Fela,1052,1057,R,6
+mona,12,trial12b,Fela,1243,1247,R,5
+mona,12,trial12b,Fela,1248,1254,R,7
+mona,12,trial12b,Fela,1255,1268,L,14
+mona,12,trial12b,Fela,1555,1560,R,6
+mona,12,trial12b,Fela,1567,1572,R,6
+mona,12,trial12c,Fela,298,299,R,2
+mona,12,trial12c,Fela,681,681,R,1
+mona,12,trial12c,Fela,689,696,R,8
+mona,12,trial12c,Fela,697,707,L,11
+mona,12,trial12c,Fela,708,709,R,2
+mona,12,trial12c,Fela,714,716,R,3
+mona,12,trial12c,Fela,717,720,L,4
+mona,12,trial12c,Fela,722,730,R,9
+mona,12,trial12c,Fela,731,741,R,11
+mona,12,trial12d,Fela,235,237,R,3
+mona,12,trial12e,JB,1607,1611,L,5
+mona,12,trial12e,JB,1614,1614,L,1
+mona,12,trial12e,JB,1663,1686,R,24
+mona,12,trial12e,JB,1687,1693,L,7
+mona,12,trial12e,JB,1694,1698,R,5
+mona,12,trial12e,JB,1699,1702,L,4
+mona,12,trial12e,JB,1704,1711,R,8
+mona,12,trial12e,JB,1747,1758,R,12
+mona,12,trial12e,JB,1808,1812,R,5
+mona,12,trial12e,JB,1813,1819,L,7
+mona,12,trial12e,JB,1915,1929,R,15
+mona,12,trial12e,JB,1930,1939,L,10
+mona,12,trial12e,JB,1962,1965,L,4
+mona,12,trial12e,JB,1967,1970,R,4
+mona,12,trial12e,JB,2154,2159,R,6
+mona,12,trial12e,JB,2177,2189,L,13
+mona,12,trial12e,JB,2270,2275,L,6
+mona,12,trial12e,JB,2276,2315,R,40
+mona,12,trial12e,JB,2520,2526,R,7
+mona,12,trial12e,JB,2597,2606,R,10
+mona,12,trial12f,Fela,1333,1336,L,4
+mona,12,trial12f,Fela,1797,1801,L,5
+mona,12,trial12f,Fela,1832,1836,L,5
+mona,12,trial12f,Fela,1843,1862,L,20
+mona,12,trial12f,Fela,1863,1877,R,15
+mona,12,trial12f,Fela,1878,1883,L,6
+mona,12,trial12f,Fela,1932,1936,L,5
+mona,12,trial12f,Fela,2000,2019,L,20
+mona,12,trial12f,Fela,2020,2034,R,15
+mona,12,trial12f,Fela,2035,2039,L,5
+mona,12,trial12f,Fela,2100,2114,L,15
+nictitans,1,trial1a,Cross,704,708,R,5
+nictitans,1,trial1a,Cross,711,715,L,5
+nictitans,1,trial1a,Cross,740,747,L,8
+nictitans,1,trial1a,Cross,748,752,R,5
+nictitans,1,trial1a,Cross,753,763,L,11
+nictitans,1,trial1a,Cross,764,775,R,12
+nictitans,1,trial1a,Cross,782,791,R,10
+nictitans,1,trial1a,Mimi,1063,1076,L,14
+nictitans,1,trial1a,Mimi,1094,1095,L,2
+nictitans,1,trial1a,Mimi,1162,1165,L,4
+nictitans,1,trial1a,Mimi,1210,1219,R,10
+nictitans,1,trial1a,Mimi,1220,1238,L,19
+nictitans,1,trial1a,Mimi,1497,1513,L,17
+nictitans,1,trial1a,Mimi,1662,1663,R,2
+nictitans,1,trial1a,Mimi,1664,1667,L,4
+nictitans,1,trial1a,Akampka,2695,2695,R,1
+nictitans,1,trial1a,Akampka,2696,2700,L,5
+nictitans,1,trial1a,Akampka,2701,2707,R,7
+nictitans,1,trial1a,Akampka,2711,2717,L,7
+nictitans,1,trial1a,Akampka,2722,2733,L,12
+nictitans,1,trial1a,Akampka,2734,2734,R,1
+nictitans,1,trial1a,Akampka,2735,2736,L,2
+nictitans,1,trial1a,Akampka,2740,2744,L,5
+nictitans,1,trial1a,Mimi,3127,3174,L,48
+nictitans,1,trial1a,Mimi,3219,3233,L,15
+nictitans,1,trial1a,Mimi,3235,3239,R,5
+nictitans,1,trial1a,Mimi,3240,3251,L,12
+nictitans,1,trial1a,Mimi,3263,3266,L,4
+nictitans,1,trial1a,Mimi,3729,3732,L,4
+nictitans,1,trial1a,Mimi's Baby,3743,3743,R,1
+nictitans,1,trial1a,Mimi's Baby,3744,3750,L,1
+nictitans,1,trial1a,Mimi,7839,7840,L,2
+nictitans,1,trial1a,Mimi,7841,7843,R,3
+nictitans,1,trial1a,Mimi,7865,7878,R,14
+nictitans,1,trial1a,Mimi,7879,7882,L,4
+nictitans,1,trial1a,Mimi,7883,7890,R,8
+nictitans,1,trial1a,Mimi,7891,7895,L,5
+nictitans,1,trial1a,Mimi,7896,7901,R,6
+nictitans,1,trial1a,Mimi,7977,7979,L,3
+nictitans,1,trial1b,Tom,496,506,L,11
+nictitans,1,trial1b,Tom,507,523,R,17
+nictitans,1,trial1b,Tom,661,662,L,2
+nictitans,1,trial1b,Tom,1081,1082,L,2
+nictitans,1,trial1b,Tom,1083,1083,R,1
+nictitans,1,trial1b,Tom,1107,1111,R,5
+nictitans,1,trial1b,Tom,1113,1155,L,43
+nictitans,1,trial1b,Tom,1195,1211,L,17
+nictitans,1,trial1b,Tom,1263,1273,R,11
+nictitans,1,trial1b,Tom,1284,1299,R,16
+nictitans,1,trial1b,Tom,1301,1320,R,20
+nictitans,1,trial1b,Tom,1322,1329,L,8
+nictitans,1,trial1b,Tom,1336,1342,L,7
+nictitans,1,trial1c,Mimi's Baby,1165,1182,L,18
+nictitans,1,trial1c,Mimi's Baby,1219,1243,R,25
+nictitans,1,trial1c,Mimi's Baby,1280,1281,R,2
+nictitans,1,trial1c,Mimi's Baby,1282,1283,L,2
+nictitans,1,trial1c,Mimi's Baby,1287,1293,R,7
+nictitans,1,trial1c,Mimi's Baby,1412,1420,R,9
+nictitans,1,trial1c,Mimi's Baby,1421,1432,L,12
+nictitans,1,trial1c,Mimi's Baby,1438,1441,R,4
+nictitans,1,trial1c,Tom,2281,2287,L,7
+nictitans,1,trial1c,Tom,2288,2293,R,6
+nictitans,1,trial1c,Tom,2301,2306,R,6
+nictitans,1,trial1c,Tom,2328,2334,R,7
+nictitans,1,trial1c,Mimi,4062,4063,L,2
+nictitans,1,trial1c,Mimi,4593,4608,R,16
+nictitans,1,trial1c,Mimi's Baby,4657,4659,L,3
+nictitans,1,trial1c,Cross,6157,6162,L,6
+nictitans,1,trial1c,Cross,6287,6305,L,19
+nictitans,1,trial1c,Mimi's Baby,7678,7679,L,2
+nictitans,1,trial1c,Mimi,7730,7737,R,8
+nictitans,1,trial1c,Mimi's Baby,7744,7770,R,27
+nictitans,1,trial1c,Mimi,7770,7776,L,7
+nictitans,1,trial1c,Mimi,7778,7786,R,9
+nictitans,1,trial1c,Mimi,7797,7802,R,6
+nictitans,1,trial1c,Mimi,7804,7807,L,4
+nictitans,1,trial1c,Mimi's Baby,7820,7821,R,2
+nictitans,1,trial1c,Mimi's Baby,7822,7824,L,3
+nictitans,1,trial1c,Mimi's Baby,7859,7866,R,8
+nictitans,1,trial1c,Mimi's Baby,7867,7877,L,11
+nictitans,1,trial1c,Mimi's Baby,7887,7889,L,3
+nictitans,1,trial1c,Mimi's Baby,7948,7957,L,10
+nictitans,1,trial1c,Mimi's Baby,8060,8066,L,7
+nictitans,2,trial2a,Nkanacha,1579,1580,R,2
+nictitans,2,trial2a,Nkanacha,1581,1581,R,1
+nictitans,2,trial2a,Nkanacha,1582,1593,R,12
+nictitans,2,trial2a,Nkanacha,1855,1859,L,5
+nictitans,2,trial2a,Nkanacha,1862,1865,L,4
+nictitans,2,trial2a,Nkanacha,1866,1872,R,7
+nictitans,2,trial2a,Nkanacha,1873,1879,L,7
+nictitans,2,trial2a,Nkanacha,1973,1982,R,10
+nictitans,2,trial2a,Nkanacha,1989,2001,L,13
+nictitans,2,trial2a,Nkanacha,2261,2271,R,11
+nictitans,2,trial2a,Nkanacha,3128,3152,R,25
+nictitans,2,trial2a,Nkanacha,3158,3170,R,13
+nictitans,2,trial2a,Double Chief,3210,3228,R,19
+nictitans,2,trial2a,Nkanacha,3226,3226,L,1
+nictitans,2,trial2a,Nkanacha,3227,3228,R,2
+nictitans,2,trial2a,Nkanacha,3229,3234,L,6
+nictitans,2,trial2a,Nkanacha,3271,3278,R,8
+nictitans,2,trial2a,Nkanacha,3321,3339,R,19
+nictitans,2,trial2a,Nkanacha,3344,3383,R,40
+nictitans,2,trial2a,Nkanacha,3591,3612,R,22
+nictitans,2,trial2a,Nkanacha,3808,3821,L,14
+nictitans,2,trial2a,Nkanacha,3827,3828,L,2
+nictitans,2,trial2a,Nkanacha,3829,3841,R,13
+nictitans,2,trial2a,Nkanacha,3843,3849,L,7
+nictitans,2,trial2a,Nkanacha,3863,3865,L,3
+nictitans,2,trial2a,Nkanacha,3870,3884,L,15
+nictitans,2,trial2a,Nkanacha,3886,3891,R,6
+nictitans,2,trial2a,Nkanacha,3908,3913,L,6
+nictitans,2,trial2a,Nkanacha,4339,4345,L,7
+nictitans,2,trial2b,Double Chief,466,470,R,5
+nictitans,2,trial2b,Double Chief,471,471,R,1
+nictitans,2,trial2b,Double Chief,472,473,L,2
+nictitans,2,trial2b,Double Chief,497,502,R,6
+nictitans,2,trial2b,Nkanacha,671,674,L,4
+nictitans,2,trial2b,Nkanacha,678,680,L,3
+nictitans,2,trial2b,Nkanacha,683,693,L,11
+nictitans,2,trial2b,Nkanacha,694,698,L,5
+nictitans,2,trial2b,Nkanacha,702,708,L,7
+nictitans,2,trial2b,Nkanacha,819,819,R,1
+nictitans,2,trial2b,Nkanacha,939,949,R,11
+nictitans,2,trial2b,Nkanacha,953,964,R,12
+nictitans,2,trial2b,Nkanacha,1122,1123,L,2
+nictitans,2,trial2b,Nkanacha,1136,1139,R,4
+nictitans,2,trial2b,Nkanacha,1141,1141,R,1
+nictitans,2,trial2b,Nkanacha,1152,1152,L,1
+nictitans,2,trial2b,Nkanacha,1153,1154,R,2
+nictitans,2,trial2b,Nkanacha,1155,1156,L,2
+nictitans,2,trial2b,Nkanacha,1157,1158,L,2
+nictitans,2,trial2b,Ema,1185,1194,R,10
+nictitans,2,trial2b,Nkanacha,1189,1193,L,5
+nictitans,2,trial2b,Nkanacha,1197,1204,L,8
+nictitans,2,trial2b,Nkanacha,1208,1209,L,2
+nictitans,2,trial2b,Nkanacha,1565,1567,L,3
+nictitans,2,trial2c,Nkanacha,1590,1603,L,14
+nictitans,2,trial2d,Double Chief,4366,4367,R,2
+nictitans,2,trial2d,Double Chief,4369,4369,L,1
+nictitans,2,trial2d,Double Chief,4404,4411,R,8
+nictitans,2,trial2d,Double Chief,4419,4424,L,6
+nictitans,2,trial2d,Double Chief,4426,4429,R,4
+nictitans,2,trial2d,Double Chief,4431,4436,L,6
+nictitans,2,trial2d,Double Chief,4499,4506,R,8
+nictitans,2,trial2d,Double Chief,4507,4508,R,2
+nictitans,2,trial2d,Double Chief,4509,4515,R,7
+nictitans,2,trial2d,Double Chief,4516,4516,L,1
+nictitans,2,trial2e,Tessy,2198,2199,L,2
+nictitans,2,trial2e,Tessy,2226,2229,R,4
+nictitans,2,trial2e,Tessy,2243,2252,L,10
+nictitans,2,trial2e,Tessy,2256,2260,L,5
+nictitans,2,trial2e,Tessy,2277,2277,R,1
+nictitans,2,trial2e,Tessy,2278,2284,R,7
+nictitans,2,trial2e,Tessy,2286,2296,L,11
+nictitans,2,trial2e,Orocky,2675,2677,L,3
+nictitans,2,trial2f,Orocky,2180,2184,R,5
+nictitans,2,trial2f,Orocky,2185,2187,L,3
+nictitans,2,trial2f,Orocky,2188,2188,R,1
+nictitans,2,trial2f,Orocky,2194,2199,L,6
+nictitans,2,trial2f,Orocky,2206,2208,R,3
+nictitans,2,trial2g,Tessy,866,869,L,4
+nictitans,2,trial2g,Tessy,870,871,R,2
+nictitans,2,trial2g,Tessy,874,877,R,4
+nictitans,2,trial2g,Tessy,888,894,L,7
+nictitans,2,trial2g,Tessy,904,909,L,6
+nictitans,2,trial2g,Tessy,910,916,R,7
+nictitans,2,trial2g,Tessy,917,924,L,8
+nictitans,2,trial2g,Tessy,926,932,R,7
+nictitans,2,trial2i,Ema,973,974,R,2
+nictitans,2,trial2i,Ema,984,989,L,6
+nictitans,2,trial2i,Ema,1016,1019,R,4
+nictitans,2,trial2i,Ema,1021,1023,L,3
+nictitans,2,trial2i,Ema,1025,1032,R,8
+nictitans,2,trial2i,Ema,1049,1049,L,1
+nictitans,2,trial2i,Ema,1052,1057,L,6
+nictitans,3,trial3a,Jojo,1417,1424,L,8
+nictitans,3,trial3a,Jojo,1425,1428,L,4
+nictitans,3,trial3a,Jojo,1429,1461,R,33
+nictitans,3,trial3a,Jojo,1465,1484,R,20
+nictitans,3,trial3b,Uche,2009,2016,R,8
+nictitans,3,trial3c,Uche,1692,1701,R,10
+nictitans,3,trial3c,Uche,1709,1712,L,4
+nictitans,3,trial3c,Uche,1713,1724,R,12
+nictitans,3,trial3d,Nzuk-ola,936,937,R,2
+nictitans,3,trial3d,Nzuk-ola,967,975,L,9
+nictitans,3,trial3d,Nzuk-ola,1151,1153,R,3
+nictitans,3,trial3e,Uche,3137,3141,R,5
+nictitans,3,trial3e,Uche,3143,3153,L,11
+nictitans,3,trial3e,Jojo,4263,4268,L,6
+nictitans,3,trial3e,Jojo,4270,4275,R,6
+nictitans,3,trial3e,Jojo,4276,4279,L,4
+nictitans,3,trial3e,Jojo,4310,4328,R,19
+nictitans,3,trial3e,Jojo,4329,4332,L,4
+nictitans,3,trial3e,Jojo,4333,4342,R,10
+nictitans,3,trial3e,Jojo,4343,4350,L,8
+nictitans,3,trial3f,Uche,1422,1425,R,4
+nictitans,3,trial3f,Uche,1426,1432,L,7
+nictitans,3,trial3f,Uche,1433,1436,R,4
+nictitans,3,trial3f,Uche,1437,1444,L,8
+nictitans,3,trial3f,Nacera,2355,2363,R,9
+nictitans,3,trial3f,Nacera,2397,2405,R,9
+nictitans,3,trial3f,Hogan,2882,2894,L,13
+nictitans,3,trial3f,Hogan,2922,2924,L,3
+nictitans,3,trial3f,Hogan,2964,2973,L,10
+nictitans,3,trial3f,Hogan,2974,2976,R,3
+nictitans,3,trial3f,Hogan,3228,3228,L,1
+nictitans,3,trial3f,Hogan,3229,3230,R,2
+nictitans,3,trial3f,Hogan,3311,3323,L,13
+nictitans,3,trial3f,Hogan,3368,3371,R,4
+nictitans,3,trial3f,Hogan,3498,3501,R,4
+nictitans,3,trial3f,Hogan,3908,3908,L,1
+nictitans,3,trial3f,Hogan,3909,3926,R,18
+nictitans,3,trial3f,Hogan,3935,3954,R,20
+nictitans,3,trial3f,Hogan,3956,3986,L,31
+nictitans,3,trial3g,Nzuk-ola,3878,3879,L,2
+nictitans,4,trial4a,Glory,919,952,L,34
+nictitans,4,trial4a,Glory,953,963,R,11
+nictitans,4,trial4a,Glory,969,970,R,2
+nictitans,4,trial4a,Glory,978,981,R,4
+nictitans,4,trial4a,Glory,995,1002,R,8
+nictitans,4,trial4a,Glory,1023,1028,L,6
+nictitans,4,trial4a,Glory,1038,1056,R,19
+nictitans,4,trial4a,Glory,1261,1282,L,22
+nictitans,4,trial4a,Glory,1283,1297,L,15
+nictitans,4,trial4a,Glory,1298,1298,R,1
+nictitans,4,trial4a,Glory,1302,1327,R,26
+nictitans,4,trial4a,Glory,1336,1342,R,7
+nictitans,4,trial4a,Glory,1443,1446,L,4
+nictitans,4,trial4a,Glory,1447,1470,R,24
+nictitans,4,trial4a,Glory,1476,1476,R,1
+nictitans,4,trial4a,Glory,1477,1481,L,5
+nictitans,4,trial4a,Amina,1502,1514,R,13
+nictitans,4,trial4a,Glory,1528,1569,R,42
+nictitans,4,trial4a,Amina,1547,1551,L,5
+nictitans,4,trial4a,Amina,1552,1553,R,2
+nictitans,4,trial4a,Glory,1575,1603,R,29
+nictitans,4,trial4a,Glory,1605,1617,L,13
+nictitans,4,trial4a,BB,2557,2557,R,1
+nictitans,4,trial4a,BB,2558,2564,L,7
+nictitans,4,trial4a,BB,2565,2570,L,6
+nictitans,4,trial4a,BB,2574,2578,L,5
+nictitans,4,trial4a,BB,2688,2694,R,7
+nictitans,4,trial4a,BB,2715,2765,R,51
+nictitans,4,trial4a,BB,2767,2789,L,23
+nictitans,4,trial4b,BB,503,506,R,4
+nictitans,4,trial4b,BB,514,514,R,1
+nictitans,4,trial4b,BB,520,525,R,6
+nictitans,4,trial4b,BB,531,560,L,30
+nictitans,4,trial4b,BB,598,622,R,25
+nictitans,4,trial4b,BB,823,824,R,2
+nictitans,4,trial4b,Glory,1202,1206,L,5
+nictitans,4,trial4b,Glory,1218,1234,L,17
+nictitans,4,trial4b,Glory,3544,3549,R,6
+nictitans,4,trial4c,Sagano,1082,1082,L,1
+nictitans,4,trial4c,Sagano,1083,1089,R,7
+nictitans,4,trial4c,BB,4615,4620,L,6
+nictitans,4,trial4c,BB,4629,4637,L,9
+nictitans,4,trial4c,BB,4765,4769,R,5
+nictitans,4,trial4c,BB,4804,4804,R,1
+nictitans,4,trial4c,BB,4812,4814,L,3
+nictitans,4,trial4c,Sagano,4819,4821,L,3
+nictitans,4,trial4c,Sagano,4832,4832,R,1
+nictitans,4,trial4c,Sagano,4836,4837,R,2
+nictitans,4,trial4c,Sagano,4843,4843,R,1
+nictitans,4,trial4c,Sagano,4848,4863,L,16
+nictitans,4,trial4c,Sagano,4919,4921,L,3
+nictitans,4,trial4c,Sagano,5438,5440,L,3
+nictitans,4,trial4d,Glory,1233,1235,L,3
+nictitans,4,trial4d,Glory,1240,1246,L,7
+nictitans,4,trial4d,Glory,1255,1259,L,5
+nictitans,4,trial4d,Glory,1261,1281,R,21
+nictitans,4,trial4d,Glory,1282,1291,L,10
+nictitans,4,trial4d,Glory,1292,1305,L,14
+nictitans,4,trial4d,Glory,1330,1331,R,2
+nictitans,4,trial4d,Glory,1344,1349,L,6
+nictitans,4,trial4d,Glory,1383,1384,R,2
+nictitans,4,trial4d,Glory,1388,1388,L,1
+nictitans,4,trial4d,Glory,1389,1391,L,3
+nictitans,4,trial4d,Glory,1393,1409,L,17
+nictitans,4,trial4d,Glory,1416,1452,R,37
+nictitans,4,trial4d,Glory,1453,1456,R,4
+nictitans,4,trial4d,Glory,1457,1467,R,11
+nictitans,4,trial4d,Glory,1469,1471,L,3
+nictitans,4,trial4d,Glory,1472,1472,L,1
+nictitans,4,trial4d,Glory,1494,1496,L,3
+nictitans,4,trial4d,Glory,1497,1506,R,10
+nictitans,4,trial4d,Glory,1511,1511,R,1
+nictitans,4,trial4d,Glory,1528,1548,L,21
+nictitans,4,trial4e,Glory,812,816,L,5
+nictitans,4,trial4e,Glory,817,821,R,5
+nictitans,4,trial4e,Glory,843,847,L,5
+nictitans,4,trial4e,Glory,849,855,R,7
+nictitans,4,trial4e,Glory,856,871,L,16
+nictitans,4,trial4e,Glory,872,876,R,5
+nictitans,4,trial4e,Glory,877,883,L,7
+nictitans,4,trial4e,?,6043,6045,R,3
+nictitans,4,trial4f,Ogoja,1597,1598,R,2
+nictitans,4,trial4f,Ogoja,1716,1720,R,5
+nictitans,4,trial4f,Ogoja,1777,1780,L,4
+nictitans,4,trial4f,Glory,1817,1819,L,3
+nictitans,4,trial4f,Ogoja,1837,1840,L,4
+nictitans,4,trial4f,Ogoja,2022,2024,L,3
+nictitans,4,trial4f,Ogoja,2292,2299,L,8
+nictitans,4,trial4f,Glory,5838,5841,L,4
+nictitans,4,trial4f,Glory,5842,5857,R,16
+nictitans,4,trial4f,Glory,5859,5867,L,9
+nictitans,4,trial4g,Ogoja,1954,1956,L,3
+nictitans,4,trial4h,Glory,1213,1231,R,19
+nictitans,4,trial4h,Glory,1264,1274,L,11
+nictitans,4,trial4h,Glory,1275,1283,R,9
+nictitans,4,trial4h,Glory,1289,1293,L,5
+nictitans,4,trial4h,Glory,1294,1327,R,34
+nictitans,4,trial4h,Glory,1329,1335,L,7
+nictitans,4,trial4h,Glory,1345,1354,R,10
+nictitans,4,trial4h,Glory,1358,1358,R,1
+nictitans,4,trial4h,Glory,1375,1397,R,23
+nictitans,4,trial4h,Glory,1408,1409,R,2
+nictitans,4,trial4h,Glory,1410,1416,L,7
+nictitans,4,trial4h,Glory,1417,1423,R,7
+nictitans,4,trial4h,Glory,1590,1593,L,4
+nictitans,4,trial4h,Glory,1594,1604,R,11
+nictitans,4,trial4h,Glory,1608,1610,L,3
+nictitans,4,trial4h,Glory,1615,1653,R,39
+nictitans,4,trial4h,Glory,1690,1699,R,10
+nictitans,4,trial4h,Glory,1712,1717,L,6
+nictitans,4,trial4h,Glory,2038,2040,R,3
+nictitans,4,trial4h,Glory,2041,2054,L,14
+nictitans,4,trial4h,Glory,2055,2077,R,23
+nictitans,4,trial4h,Glory,2078,2090,L,13
+nictitans,4,trial4h,Glory,2798,2805,R,8
+nictitans,4,trial4h,Glory,2806,2816,L,11
+nictitans,4,trial4h,Glory,2820,2848,R,29
+nictitans,4,trial4h,Ogoja,5793,5794,R,2
+nictitans,4,trial4h,Sagano,6609,6617,L,9
+nictitans,4,trial4h,Sagano,6623,6629,R,7
+nictitans,4,trial4h,Sagano,6644,6647,R,4
+nictitans,4,trial4h,Ogoja,7199,7200,R,2
+nictitans,4,trial4h,Ogoja,7224,7227,L,4
+nictitans,4,trial4h,Ogoja,7228,7229,R,2
+nictitans,4,trial4h,BB,7252,7260,L,9
+nictitans,4,trial4h,BB,7261,7275,R,15
+nictitans,4,trial4h,BB,7292,7299,L,8
+nictitans,4,trial4h,BB,7292,7305,L,14
+nictitans,4,trial4h,Ogoja,8273,8275,L,3
+nictitans,4,trial4h,Ogoja,8336,8336,L,1
+nictitans,4,trial4h,Ogoja,10623,10631,L,9
+nictitans,4,trial4h,Ogoja,10682,10685,L,4
+nictitans,4,trial4h,Ogoja,10686,10689,R,4
+nictitans,4,trial4h,Sagano,12503,12507,R,5
+nictitans,4,trial4h,Ogoja,17076,17080,R,5
+nictitans,4,trial4h,Ogoja,17112,17113,L,2
+nictitans,4,trial4h,Ogoja,20820,20824,L,5
+nictitans,4,trial4h,Ogoja,20825,20828,R,4
+nictitans,4,trial4h,Ogoja,20829,20832,L,4
+nictitans,4,trial4h,Ogoja,20843,20845,R,3
+nictitans,4,trial4h,Ogoja,20846,20846,L,1
+nictitans,4,trial4h,Ogoja,21181,21184,L,4
+nictitans,4,trial4h,Ogoja,21186,21193,R,8
+nictitans,4,trial4h,Ogoja,21194,21199,L,6
+nictitans,4,trial4h,Ogoja,21398,21399,L,2
+nictitans,4,trial4h,Ogoja,21400,21414,L,15
+nictitans,4,trial4h,Ogoja,21567,21581,L,15
+nictitans,4,trial4h,Ogoja,21582,21586,L,5
+nictitans,4,trial4h,Ogoja,21587,21590,R,4
+nictitans,4,trial4h,Ogoja,24808,24809,L,2
+nictitans,4,trial4h,Ogoja,25124,25124,L,1
+nictitans,4,trial4h,Ogoja,25129,25129,L,1
+nictitans,4,trial4h,Ogoja,25137,25137,R,1
+nictitans,4,trial4h,Ogoja,25158,25164,L,7
+nictitans,4,trial4h,Ogoja,25179,25201,L,23
+nictitans,4,trial4i,Amina,9593,9594,L,2
+nictitans,4,trial4i,Amina,9596,9605,R,10
+nictitans,4,trial4i,Amina,9607,9607,L,1
+nictitans,5,trial5a,Mimi,803,807,L,5
+nictitans,5,trial5a,Mimi,812,816,L,5
+nictitans,5,trial5a,Mimi,817,819,R,3
+nictitans,5,trial5a,Mimi,827,829,R,3
+nictitans,5,trial5a,Mimi,993,1003,L,11
+nictitans,5,trial5a,Mimi,1049,1053,R,5
+nictitans,5,trial5a,Mimi,1057,1058,R,2
+nictitans,5,trial5a,Mimi,1059,1062,L,4
+nictitans,5,trial5a,Mimi,1064,1092,R,29
+nictitans,5,trial5a,Mimi,1116,1134,L,19
+nictitans,5,trial5a,Mimi,1135,1135,R,1
+nictitans,5,trial5a,Mimi,1140,1141,L,2
+nictitans,5,trial5a,Akampka,1689,1689,L,1
+nictitans,5,trial5a,Tom,1928,1929,L,2
+nictitans,5,trial5a,Tom,1930,1946,R,17
+nictitans,5,trial5a,Tom,1947,1950,L,4
+nictitans,5,trial5a,Tom,1952,1963,R,12
+nictitans,5,trial5a,Tom,1965,1968,L,4
+nictitans,5,trial5a,Tom,2049,2052,R,4
+nictitans,5,trial5a,Mimi,2101,2121,R,21
+nictitans,5,trial5a,Tom,2119,2121,R,3
+nictitans,5,trial5a,Tom,2122,2123,L,2
+nictitans,5,trial5a,Mimi,2122,2122,R,1
+nictitans,5,trial5a,Mimi,2123,2127,R,5
+nictitans,5,trial5a,Tom,2127,2133,R,7
+nictitans,5,trial5a,Mimi,2128,2146,R,19
+nictitans,5,trial5a,Tom,2135,2148,L,14
+nictitans,5,trial5a,Mimi,2147,2147,R,1
+nictitans,5,trial5a,Mimi,2148,2153,R,6
+nictitans,5,trial5a,Tom,2149,2166,R,18
+nictitans,5,trial5a,Mimi,2154,2157,R,4
+nictitans,5,trial5a,Tom,2168,2203,L,36
+nictitans,5,trial5a,Mimi,2323,2339,L,17
+nictitans,5,trial5a,Mimi,2347,2359,L,13
+nictitans,5,trial5a,Cross,2374,2377,L,4
+nictitans,5,trial5a,Cross,2423,2433,R,11
+nictitans,5,trial5a,Cross,2442,2452,R,11
+nictitans,5,trial5a,Cross,2457,2478,R,22
+nictitans,5,trial5a,Cross,2484,2490,R,7
+nictitans,5,trial5a,Cross,2491,2495,L,5
+nictitans,5,trial5a,Cross,2496,2501,R,6
+nictitans,5,trial5a,Cross,2502,2509,L,8
+nictitans,5,trial5a,Cross,2510,2510,R,1
+nictitans,5,trial5a,Cross,2521,2527,L,7
+nictitans,5,trial5a,Cross,2527,2527,R,1
+nictitans,5,trial5a,Cross,2600,2626,R,27
+nictitans,5,trial5b,Cross,2292,2294,R,3
+nictitans,5,trial5b,Cross,2311,2340,L,30
+nictitans,5,trial5b,Cross,2651,2652,R,2
+nictitans,5,trial5b,Cross,2653,2685,L,33
+nictitans,5,trial5b,Cross,2733,2737,R,5
+nictitans,5,trial5b,Cross,2738,2768,L,31
+nictitans,5,trial5b,Cross,2769,2782,R,14
+nictitans,5,trial5b,Cross,2828,2846,L,19
+nictitans,5,trial5b,Cross,2852,2862,L,11
+nictitans,5,trial5b,Cross,2873,2873,L,1
+nictitans,5,trial5b,Cross,2874,2880,R,7
+nictitans,5,trial5b,Cross,2882,2898,L,17
+nictitans,5,trial5b,Cross,2917,2925,R,9
+nictitans,5,trial5b,Cross,2931,2948,R,18
+nictitans,6,trial6a,Nkanacha,977,977,L,1
+nictitans,6,trial6a,Nkanacha,1010,1015,R,6
+nictitans,6,trial6a,Nkanacha,1021,1021,L,1
+nictitans,6,trial6a,Nkanacha,1503,1504,L,2
+nictitans,6,trial6a,Nkanacha,1506,1508,L,3
+nictitans,6,trial6b,Double Chief,2617,2619,L,3
+nictitans,6,trial6b,Double Chief,2620,2626,R,7
+nictitans,6,trial6b,Double Chief,2632,2635,R,4
+nictitans,6,trial6b,Double Chief,2636,2636,L,1
+nictitans,6,trial6b,Double Chief,9136,9139,R,4
+nictitans,6,trial6c,Double Chief,712,713,R,2
+nictitans,6,trial6c,Double Chief,2263,2270,R,8
+nictitans,6,trial6c,Double Chief,3661,3664,R,4
+nictitans,6,trial6c,Double Chief,3670,3676,L,7
+nictitans,6,trial6c,Double Chief,3719,3728,R,10
+nictitans,6,trial6c,Double Chief,3729,3733,R,5
+nictitans,6,trial6c,Double Chief,3734,3738,R,5
+nictitans,6,trial6c,Double Chief,6977,6990,L,14
+nictitans,6,trial6c,Double Chief,6993,6994,L,2
+nictitans,6,trial6c,Double Chief,6998,6999,L,2
+nictitans,6,trial6c,Double Chief,7006,7006,L,1
+nictitans,6,trial6c,Double Chief,7170,7173,L,4
+nictitans,6,trial6c,Double Chief,7609,7612,R,4
+nictitans,6,trial6c,Double Chief,10278,10279,R,2
+nictitans,6,trial6c,Nkanacha,16780,16780,R,1
+nictitans,6,trial6c,Nkanacha,16781,16781,L,1
+nictitans,6,trial6d,Double Chief,1686,1687,L,2
+nictitans,6,trial6d,Double Chief,1689,1705,R,17
+nictitans,6,trial6d,Double Chief,1711,1735,L,25
+nictitans,6,trial6d,Double Chief,1743,1746,L,4
+nictitans,6,trial6d,Double Chief,1750,1753,L,4
+nictitans,6,trial6d,Double Chief,1754,1757,R,4
+nictitans,6,trial6d,Double Chief,1758,1761,L,4
+nictitans,6,trial6e,Nkanacha,340,341,R,2
+nictitans,6,trial6e,Nkanacha,343,345,R,3
+nictitans,6,trial6e,Nkanacha,462,463,L,2
+nictitans,6,trial6e,Nkanacha,497,498,L,2
+nictitans,6,trial6e,Nkanacha,784,785,L,2
+nictitans,6,trial6f,Ema,1214,1214,R,1
+nictitans,6,trial6f,Ema,1239,1242,L,4
+nictitans,6,trial6f,Ema,1254,1260,R,7
+nictitans,6,trial6f,Ema,1267,1273,L,7
+nictitans,6,trial6g,Nkanacha,1279,1279,L,1
+nictitans,6,trial6g,Nkanacha,1282,1291,L,10
+nictitans,6,trial6g,Nkanacha,2368,2369,L,2
+nictitans,6,trial6g,Nkanacha,2434,2439,L,6
+nictitans,6,trial6g,Nkanacha,2443,2448,L,6
+nictitans,6,trial6g,Nkanacha,2449,2449,R,1
+nictitans,6,trial6g,Nkanacha,2504,2506,L,3
+nictitans,6,trial6g,Nkanacha,2509,2511,L,3
+nictitans,6,trial6g,Nkanacha,3771,3772,R,2
+nictitans,6,trial6g,Nkanacha,3774,3779,R,6
+nictitans,6,trial6g,Nkanacha,3785,3790,L,6
+nictitans,6,trial6g,Nkanacha,3796,3797,R,2
+nictitans,6,trial6g,Nkanacha,3799,3807,R,9
+nictitans,6,trial6g,Nkanacha,3833,3837,L,5
+nictitans,6,trial6g,Nkanacha,3893,3900,R,8
+nictitans,6,trial6g,Nkanacha,3905,3907,L,3
+nictitans,6,trial6g,Nkanacha,3908,3911,R,4
+nictitans,6,trial6g,Nkanacha,3931,3936,L,6
+nictitans,6,trial6g,Nkanacha,3937,3947,R,11
+nictitans,6,trial6g,Nkanacha,3951,3983,R,33
+nictitans,6,trial6g,Nkanacha,3986,4011,R,26
+nictitans,6,trial6g,Nkanacha,4014,4017,R,4
+nictitans,6,trial6g,Nkanacha,4051,4059,L,9
+nictitans,6,trial6j,Tessy,819,820,L,2
+nictitans,6,trial6j,Tessy,823,824,L,2
+nictitans,6,trial6j,Tessy,825,828,R,4
+nictitans,6,trial6j,Tessy,829,832,L,4
+nictitans,6,trial6j,Tessy,833,834,R,2
+nictitans,6,trial6j,Tessy,837,840,R,4
+nictitans,6,trial6j,Tessy,841,850,L,10
+nictitans,6,trial6j,Tessy,857,870,L,14
+nictitans,6,trial6j,Tessy,879,883,L,5
+nictitans,6,trial6j,Tessy,892,900,L,9
+nictitans,6,trial6j,Tessy,908,914,R,7
+nictitans,6,trial6j,Tessy,943,952,L,10
+nictitans,6,trial6k,Tessy,513,513,R,1
+nictitans,6,trial6k,Tessy,514,522,L,9
+nictitans,6,trial6k,Tessy,534,543,R,10
+nictitans,6,trial6k,Tessy,545,554,R,10
+nictitans,6,trial6l,Sandra,2181,2184,R,4
+nictitans,6,trial6l,Orocky,2265,2268,R,4
+nictitans,6,trial6l,Tessy,2557,2563,L,7
+nictitans,6,trial6p,Tessy,994,994,R,1
+nictitans,6,trial6p,Tessy,1002,1002,R,1
+nictitans,6,trial6p,Tessy,1008,1008,L,1
+nictitans,6,trial6p,Tessy,1009,1011,R,3
+nictitans,6,trial6q,Ema,2452,2454,R,3
+nictitans,6,trial6q,Ema,2517,2517,R,1
+nictitans,6,trial6r,Orocky,1201,1203,R,3
+nictitans,6,trial6r,Orocky,1204,1213,L,10
+nictitans,6,trial6r,Orocky,1559,1562,R,4
+nictitans,6,trial6r,Orocky,1564,1564,R,1
+nictitans,6,trial6r,Tessy,1973,1973,L,1
+nictitans,7,trial7a,Uche,963,978,L,16
+nictitans,7,trial7a,Uche,979,992,R,14
+nictitans,7,trial7a,Hogan,1191,1195,R,5
+nictitans,7,trial7a,Nzuk-ola,1295,1297,R,3
+nictitans,7,trial7a,Nzuk-ola,1299,1301,R,3
+nictitans,7,trial7a,Nzuk-ola,1302,1315,L,14
+nictitans,7,trial7a,Hogan,1306,1308,L,3
+nictitans,7,trial7a,Hogan,1322,1325,L,4
+nictitans,7,trial7a,Hogan,1334,1334,L,1
+nictitans,7,trial7a,Hogan,1339,1345,L,7
+nictitans,7,trial7a,Hogan,1356,1362,R,7
+nictitans,7,trial7a,Hogan,1364,1377,L,14
+nictitans,7,trial7a,Hogan,1378,1395,R,18
+nictitans,7,trial7a,Hogan,1637,1641,L,5
+nictitans,7,trial7a,Hogan,3790,3799,L,10
+nictitans,7,trial7a,Hogan,3800,3827,R,28
+nictitans,7,trial7a,Hogan,3828,3833,L,6
+nictitans,7,trial7b,Nzuk-ola,1787,1790,R,4
+nictitans,7,trial7b,Nzuk-ola,1792,1796,L,5
+nictitans,7,trial7b,Nzuk-ola,1797,1801,L,5
+nictitans,7,trial7b,Nzuk-ola,1802,1802,R,1
+nictitans,7,trial7b,Nzuk-ola,1803,1810,R,8
+nictitans,7,trial7b,Nzuk-ola,1811,1819,L,9
+nictitans,7,trial7b,Nzuk-ola,1821,1827,R,7
+nictitans,7,trial7b,Nzuk-ola,1831,1848,L,18
+nictitans,7,trial7b,Nzuk-ola,1854,1866,L,13
+nictitans,7,trial7b,Nacera,1871,1872,L,2
+nictitans,7,trial7c,Nacera,1346,1356,R,11
+nictitans,7,trial7c,Nacera,1357,1368,L,12
+nictitans,7,trial7c,Jojo,1384,1385,R,2
+nictitans,7,trial7c,Jojo,1386,1395,L,10
+nictitans,7,trial7c,Jojo,1396,1409,R,14
+nictitans,7,trial7c,Jojo,1410,1419,L,10
+nictitans,7,trial7c,Jojo,1438,1444,R,7
+nictitans,7,trial7c,Jojo,1445,1449,L,5
+nictitans,7,trial7c,Jojo,1450,1457,L,8
+nictitans,7,trial7c,Jojo,1458,1463,L,6
+nictitans,7,trial7c,Jojo,1467,1474,R,8
+nictitans,7,trial7c,Jojo,1476,1489,L,14
+nictitans,7,trial7c,Jojo,1547,1556,L,10
+nictitans,7,trial7c,Jojo,1558,1582,R,25
+nictitans,7,trial7c,Jojo,1594,1594,R,1
+nictitans,7,trial7c,Jojo,1597,1597,R,1
+nictitans,7,trial7c,Jojo,1599,1599,R,1
+nictitans,7,trial7c,Nacera,1628,1628,L,1
+nictitans,7,trial7c,Jojo,1862,1866,R,5
+nictitans,7,trial7c,Jojo,1887,1895,R,9
+nictitans,7,trial7d,Jojo,731,731,L,1
+nictitans,7,trial7d,Nacera,736,736,L,1
+nictitans,7,trial7d,Jojo,783,785,R,3
+nictitans,7,trial7d,Jojo,790,792,R,3
+nictitans,7,trial7d,Jojo,793,796,L,4
+nictitans,7,trial7d,Nacera,801,803,L,3
+nictitans,7,trial7d,Jojo,827,830,R,4
+nictitans,7,trial7d,Nacera,937,939,R,3
+nictitans,7,trial7d,Hogan,1302,1305,L,4
+nictitans,7,trial7d,Hogan,1306,1321,R,16
+nictitans,7,trial7d,Hogan,1323,1335,L,13
+nictitans,7,trial7d,Hogan,1341,1343,R,3
+nictitans,7,trial7d,Hogan,1345,1350,L,6
+nictitans,7,trial7d,Hogan,1351,1353,R,3
+nictitans,7,trial7d,Hogan,1362,1363,R,2
+nictitans,7,trial7d,Hogan,1411,1413,L,3
+nictitans,7,trial7d,Hogan,1415,1424,R,10
+nictitans,7,trial7d,Hogan,1436,1436,R,1
+nictitans,7,trial7d,Hogan,1437,1439,L,3
+nictitans,7,trial7d,Hogan,1476,1485,R,10
+nictitans,7,trial7d,Nzuk-ola,1606,1614,L,9
+nictitans,7,trial7d,Nzuk-ola,1616,1631,R,16
+nictitans,7,trial7d,Nzuk-ola,1632,1638,R,7
+nictitans,7,trial7d,Uche,1819,1819,R,1
+nictitans,7,trial7d,Uche,1820,1823,L,4
+nictitans,7,trial7d,Uche,1825,1833,R,9
+nictitans,7,trial7d,Uche,1834,1847,L,14
+nictitans,7,trial7d,Nzuk-ola,3886,3895,L,10
+nictitans,8,trial8a,Amina,1471,1488,R,18
+nictitans,8,trial8a,Amina,1489,1492,L,4
+nictitans,8,trial8a,Amina,1502,1511,R,10
+nictitans,8,trial8a,Amina,1513,1541,L,29
+nictitans,8,trial8a,Amina,1555,1570,R,16
+nictitans,8,trial8a,BB,1988,1988,L,1
+nictitans,8,trial8a,BB,1990,1992,R,3
+nictitans,8,trial8a,BB,1996,1997,R,2
+nictitans,8,trial8a,BB,2000,2013,L,14
+nictitans,8,trial8a,BB,2017,2036,L,20
+nictitans,8,trial8a,BB,2043,2049,R,7
+nictitans,8,trial8a,BB,2066,2075,L,10
+nictitans,8,trial8a,Glory,2756,2760,L,5
+nictitans,8,trial8a,Glory,2761,2761,R,1
+nictitans,8,trial8a,Glory,2795,2796,L,2
+nictitans,8,trial8a,Glory,2798,2818,R,21
+nictitans,8,trial8a,Glory,2820,2830,L,11
+nictitans,8,trial8a,Glory,2834,2834,L,1
+nictitans,8,trial8a,Glory,2882,2896,R,15
+nictitans,8,trial8a,Glory,2897,2899,L,3
+nictitans,8,trial8a,Glory,2907,2931,R,25
+nictitans,8,trial8a,Glory,2933,2935,L,3
+nictitans,8,trial8a,Glory,2936,2946,R,11
+nictitans,8,trial8a,Glory,2948,2952,L,5
+nictitans,8,trial8a,Glory,2959,2959,L,1
+nictitans,8,trial8a,Glory,2960,2962,L,3
+nictitans,8,trial8a,Glory,3075,3098,L,24
+nictitans,8,trial8a,Glory,3101,3112,L,12
+nictitans,8,trial8a,Glory,3180,3184,R,5
+nictitans,8,trial8a,Glory,3185,3190,R,6
+nictitans,8,trial8a,Glory,3191,3195,L,5
+nictitans,8,trial8a,Glory,3196,3209,R,14
+nictitans,8,trial8a,Glory,3210,3217,L,8
+nictitans,8,trial8a,Glory,3218,3236,R,19
+nictitans,8,trial8a,Glory,3286,3291,L,6
+nictitans,8,trial8a,Glory,3355,3370,R,16
+nictitans,8,trial8a,Glory,3375,3395,R,21
+nictitans,8,trial8a,Glory,3396,3401,R,6
+nictitans,8,trial8a,Glory,3403,3406,R,4
+nictitans,8,trial8a,Glory,3522,3530,R,9
+nictitans,8,trial8a,Glory,3534,3537,R,4
+nictitans,8,trial8a,Glory,3539,3544,R,6
+nictitans,8,trial8a,Glory,3548,3561,R,14
+nictitans,8,trial8a,Glory,3568,3574,L,7
+nictitans,8,trial8a,Glory,3628,3632,R,5
+nictitans,8,trial8a,Glory,3634,3635,R,2
+nictitans,8,trial8a,Glory,3641,3646,R,6
+nictitans,8,trial8a,Glory,3647,3653,R,7
+nictitans,8,trial8a,BB,3748,3758,R,11
+nictitans,8,trial8a,BB,3759,3762,L,4
+nictitans,8,trial8a,BB,3765,3767,R,3
+nictitans,8,trial8a,BB,3768,3789,L,22
+nictitans,8,trial8a,BB,3790,3795,R,6
+nictitans,8,trial8a,BB,3797,3805,L,9
+nictitans,8,trial8a,BB,4296,4299,R,4
+nictitans,8,trial8b,Ogoja,1241,1247,R,7
+nictitans,8,trial8c,Sagano,1223,1225,R,3
+nictitans,8,trial8c,Sagano,1226,1226,L,1
+nictitans,8,trial8c,Sagano,1426,1429,L,4
+nictitans,8,trial8c,BB,3038,3042,L,5
+nictitans,8,trial8d,Ogoja,1729,1729,R,1
+nictitans,8,trial8d,Ogoja,1800,1804,R,5
+nictitans,8,trial8d,Sagano,11497,11514,R,18
+nictitans,8,trial8d,Sagano,11515,11519,R,5
+nictitans,8,trial8d,Sagano,11520,11531,R,12
+nictitans,8,trial8d,Sagano,11533,11541,L,9
+nictitans,8,trial8d,Sagano,11543,11571,R,29
+nictitans,8,trial8d,Sagano,11644,11656,R,13
+nictitans,8,trial8d,Sagano,11657,11669,L,13
+nictitans,8,trial8d,BB,17419,17420,R,2
+nictitans,8,trial8d,BB,17421,17458,L,38
+nictitans,8,trial8e,Sagano,1254,1258,R,5
+nictitans,8,trial8e,Sagano,1273,1290,L,18
+nictitans,8,trial8e,Sagano,1293,1302,R,10
+nictitans,8,trial8f,BB,242,245,R,4
+nictitans,8,trial8f,BB,255,267,L,13
+nictitans,8,trial8k,Ogoja,5108,5120,R,13
+nictitans,8,trial8k,Ogoja,5822,5823,R,2
+nictitans,8,trial8k,Ogoja,5830,5834,R,5
+nictitans,8,trial8k,Ogoja,5839,5845,R,7
+nictitans,8,trial8k,Ogoja,6334,6336,L,3
+nictitans,8,trial8k,Ogoja,6338,6339,R,2
+nictitans,8,trial8k,Ogoja,6348,6350,L,3
+nictitans,8,trial8k,Ogoja,6394,6394,L,1
+nictitans,8,trial8k,Ogoja,6395,6395,R,1
+nictitans,8,trial8k,Ogoja,6398,6401,L,4
+nictitans,8,trial8k,Ogoja,6404,6412,R,9
+nictitans,8,trial8k,Ogoja,6424,6434,L,11
+nictitans,8,trial8k,Ogoja,6511,6515,L,5
+nictitans,8,trial8k,Ogoja,6697,6699,L,3
+nictitans,8,trial8k,Ogoja,6796,6797,L,2
+nictitans,8,trial8k,Ogoja,6817,6823,L,7
+nictitans,8,trial8k,Ogoja,6825,6851,R,27
+nictitans,8,trial8k,Ogoja,7153,7155,R,3
+nictitans,8,trial8k,Ogoja,7259,7259,R,1
+nictitans,8,trial8k,Ogoja,7298,7302,L,5
+nictitans,8,trial8l,Ogoja,2667,2669,L,3
+nictitans,8,trial8l,Ogoja,2675,2678,R,4
+nictitans,8,trial8l,Ogoja,2817,2821,L,5
+nictitans,8,trial8l,Ogoja,2865,2873,L,9
+nictitans,8,trial8l,Ogoja,2880,2896,R,17
+nictitans,8,trial8l,Ogoja,3364,3386,R,23
+nictitans,9,trial9a,Mimi,607,612,L,6
+nictitans,9,trial9a,Mimi,623,630,L,8
+nictitans,9,trial9a,Mimi,631,636,R,6
+nictitans,9,trial9a,Mimi,644,670,R,27
+nictitans,9,trial9a,Mimi,679,685,L,7
+nictitans,9,trial9a,Mimi,697,721,L,25
+nictitans,9,trial9a,Cross,750,753,L,4
+nictitans,9,trial9a,Cross,754,759,L,6
+nictitans,9,trial9a,Cross,764,800,L,37
+nictitans,9,trial9a,Cross,801,801,R,1
+nictitans,9,trial9a,Cross,811,815,L,5
+nictitans,9,trial9a,Mimi,851,874,L,24
+nictitans,9,trial9a,Mimi,883,887,R,5
+nictitans,9,trial9a,Mimi,902,914,L,13
+nictitans,9,trial9a,Mimi,915,919,L,5
+nictitans,9,trial9a,Mimi,920,926,L,7
+nictitans,9,trial9a,Mimi,927,964,R,38
+nictitans,9,trial9a,Mimi's Baby,988,1007,L,20
+nictitans,9,trial9a,Mimi's Baby,1027,1047,L,21
+nictitans,9,trial9a,Mimi's Baby,1048,1059,R,12
+nictitans,9,trial9a,Mimi's Baby,1067,1073,R,7
+nictitans,9,trial9a,Mimi's Baby,1130,1141,L,12
+nictitans,9,trial9a,Mimi,1809,1819,L,11
+nictitans,9,trial9a,Mimi,1820,1842,R,23
+nictitans,9,trial9a,Mimi,1853,1859,L,7
+nictitans,9,trial9a,Mimi,1860,1866,L,7
+nictitans,9,trial9a,Mimi,1867,1875,L,9
+nictitans,9,trial9a,Mimi,1883,1901,R,19
+nictitans,9,trial9a,Mimi,1933,1945,R,13
+nictitans,9,trial9a,Mimi,1959,2024,R,66
+nictitans,9,trial9a,Mimi,2026,2030,L,5
+nictitans,9,trial9a,Mimi,2031,2039,R,9
+nictitans,9,trial9a,Mimi,2041,2050,L,10
+nictitans,9,trial9a,Cross,2051,2059,L,9
+nictitans,9,trial9a,Cross,2062,2067,R,6
+nictitans,9,trial9a,Mimi,2071,2074,L,4
+nictitans,9,trial9a,Mimi,2075,2097,L,23
+nictitans,9,trial9a,Cross,2088,2088,L,1
+nictitans,9,trial9a,Cross,2117,2123,L,7
+nictitans,9,trial9a,Cross,2124,2199,R,76
+nictitans,9,trial9a,Mimi,2201,2206,L,6
+nictitans,9,trial9a,Cross,2205,2234,R,30
+nictitans,9,trial9a,Cross,2236,2240,L,5
+nictitans,9,trial9a,Cross,2243,2278,R,36
+nictitans,9,trial9a,Cross,2279,2285,L,7
+nictitans,9,trial9a,Tom,2757,2770,R,14
+nictitans,9,trial9a,Cross,4454,4458,L,5
+nictitans,9,trial9a,Cross,4482,4509,L,28
+nictitans,9,trial9a,Cross,4510,4523,R,14
+nictitans,9,trial9a,Cross,4528,4529,R,2
+nictitans,9,trial9a,Cross,4530,4532,R,3
+nictitans,9,trial9a,Cross,4534,4537,L,4
+nictitans,9,trial9a,Cross,4538,4564,R,27
+nictitans,9,trial9a,Tom,6703,6712,L,10
+nictitans,9,trial9a,Tom,6713,6719,R,7
+nictitans,9,trial9a,Tom,6809,6810,L,2
+nictitans,9,trial9a,Tom,7104,7113,R,10
+nictitans,9,trial9a,Tom,7120,7125,R,6
+nictitans,9,trial9a,Tom,7126,7131,R,6
+nictitans,9,trial9a,Tom,7132,7143,R,12
+nictitans,9,trial9a,Tom,7145,7151,L,7
+nictitans,9,trial9a,Tom,7152,7152,R,1
+nictitans,9,trial9a,Tom,7152,7173,R,22
+nictitans,9,trial9a,Tom,7342,7347,R,6
+nictitans,9,trial9a,Tom,7348,7352,L,5
+nictitans,9,trial9a,Tom,7357,7365,R,9
+nictitans,9,trial9a,Tom,7370,7408,L,39
+nictitans,9,trial9a,Tom,7409,7417,R,9
+nictitans,9,trial9h,Akampka,12357,12365,L,9
+nictitans,9,trial9h,Akampka,12366,12369,R,4
+nictitans,9,trial9h,Akampka,15023,15029,L,7
+nictitans,9,trial9h,Akampka,15033,15033,L,1
+nictitans,9,trial9h,Akampka,15038,15038,L,1
+nictitans,9,trial9h,Akampka,15784,15787,R,4
+nictitans,9,trial9h,Akampka,15788,15793,L,6
+nictitans,10,trial10a,Nkanacha,298,299,R,2
+nictitans,10,trial10a,Nkanacha,304,305,R,2
+nictitans,10,trial10a,Nkanacha,306,314,L,9
+nictitans,10,trial10a,Nkanacha,316,318,L,3
+nictitans,10,trial10a,Nkanacha,432,437,L,6
+nictitans,10,trial10a,Nkanacha,438,449,R,12
+nictitans,10,trial10a,Nkanacha,938,942,R,5
+nictitans,10,trial10a,Nkanacha,1037,1043,L,7
+nictitans,10,trial10b,Ema,592,599,L,8
+nictitans,10,trial10b,Ema,600,613,L,14
+nictitans,10,trial10b,Ema,614,616,R,3
+nictitans,10,trial10b,Ema,619,623,R,5
+nictitans,10,trial10c,Ema,3437,3439,L,3
+nictitans,10,trial10c,Ema,3447,3449,L,3
+nictitans,10,trial10d,Ema,1293,1296,R,4
+nictitans,10,trial10d,Ema,1298,1326,L,29
+nictitans,10,trial10d,Ema,1330,1330,R,1
+nictitans,10,trial10e,Double Chief,383,386,R,4
+nictitans,10,trial10e,Double Chief,391,394,R,4
+nictitans,10,trial10e,Double Chief,395,407,R,13
+nictitans,10,trial10e,Double Chief,408,425,L,18
+nictitans,10,trial10e,Double Chief,426,429,R,4
+nictitans,10,trial10e,Double Chief,430,436,L,7
+nictitans,10,trial10f,Maya,2500,2508,L,9
+nictitans,10,trial10f,Double Chief,4255,4257,L,3
+nictitans,10,trial10f,Double Chief,4259,4270,R,12
+nictitans,10,trial10f,Double Chief,4276,4285,R,10
+nictitans,10,trial10f,Double Chief,4287,4288,L,2
+nictitans,10,trial10g,Nkanacha,290,291,R,2
+nictitans,10,trial10g,Nkanacha,826,830,R,5
+nictitans,10,trial10g,Nkanacha,839,849,L,11
+nictitans,10,trial10g,Nkanacha,850,853,L,4
+nictitans,10,trial10g,Nkanacha,867,867,R,1
+nictitans,10,trial10g,Nkanacha,868,870,R,3
+nictitans,10,trial10g,Nkanacha,871,875,R,5
+nictitans,10,trial10g,Nkanacha,1405,1409,R,5
+nictitans,10,trial10g,Nkanacha,1490,1494,L,5
+nictitans,10,trial10g,Nkanacha,1961,1961,R,1
+nictitans,10,trial10g,Nkanacha,2783,2790,R,8
+nictitans,10,trial10g,Nkanacha,2792,2795,L,4
+nictitans,10,trial10g,Nkanacha,2796,2798,L,3
+nictitans,10,trial10g,Nkanacha,2852,2852,L,1
+nictitans,10,trial10g,Nkanacha,2853,2858,L,6
+nictitans,10,trial10h,Tessy,1276,1294,R,19
+nictitans,10,trial10h,Tessy,1708,1712,L,5
+nictitans,10,trial10h,Tessy,1713,1718,R,6
+nictitans,10,trial10h,Tessy,1724,1731,R,8
+nictitans,10,trial10h,Tessy,1863,1866,R,4
+nictitans,10,trial10i,Orocky,698,732,R,35
+nictitans,10,trial10i,Orocky,705,708,R,4
+nictitans,10,trial10i,Orocky,709,712,R,4
+nictitans,10,trial10i,Orocky,713,732,R,20
+nictitans,10,trial10i,Orocky,747,751,L,5
+nictitans,10,trial10i,Orocky,763,767,R,5
+nictitans,10,trial10i,Orocky,777,780,R,4
+nictitans,10,trial10i,Orocky,781,794,R,14
+nictitans,10,trial10i,Orocky,795,799,L,5
+nictitans,10,trial10i,Orocky,801,802,R,2
+nictitans,10,trial10i,Orocky,803,806,R,4
+nictitans,10,trial10i,Orocky,807,822,R,16
+nictitans,10,trial10i,Orocky,823,827,L,5
+nictitans,11,trial11a,Jojo,531,534,L,4
+nictitans,11,trial11a,Jojo,536,542,L,7
+nictitans,11,trial11a,Jojo,547,608,L,62
+nictitans,11,trial11a,Jojo,609,632,L,24
+nictitans,11,trial11a,Jojo,645,653,R,9
+nictitans,11,trial11a,Jojo,656,666,R,11
+nictitans,11,trial11a,Jojo,667,684,L,18
+nictitans,11,trial11a,Uche,750,767,R,18
+nictitans,11,trial11a,Uche,769,772,L,4
+nictitans,11,trial11a,Uche,774,801,R,28
+nictitans,11,trial11a,Jojo,841,847,R,7
+nictitans,11,trial11a,Jojo,848,856,R,9
+nictitans,11,trial11a,Jojo,870,871,L,2
+nictitans,11,trial11a,Jojo,873,890,R,18
+nictitans,11,trial11a,Hogan,1191,1194,L,4
+nictitans,11,trial11a,Hogan,1195,1199,R,5
+nictitans,11,trial11a,Hogan,1204,1212,R,9
+nictitans,11,trial11a,Hogan,1213,1217,L,5
+nictitans,11,trial11a,Hogan,1218,1223,L,6
+nictitans,11,trial11a,Hogan,1224,1227,R,4
+nictitans,11,trial11a,Hogan,1228,1242,R,15
+nictitans,11,trial11a,Hogan,1243,1257,L,15
+nictitans,11,trial11a,Hogan,1259,1306,R,48
+nictitans,11,trial11a,Hogan,1308,1324,R,17
+nictitans,11,trial11a,Hogan,1327,1330,L,4
+nictitans,11,trial11a,Hogan,1374,1375,L,2
+nictitans,11,trial11a,Hogan,1378,1395,L,18
+nictitans,11,trial11a,Hogan,1398,1415,R,18
+nictitans,11,trial11a,Hogan,1419,1419,L,1
+nictitans,11,trial11a,Hogan,1912,1928,R,17
+nictitans,11,trial11a,Hogan,1929,1930,R,2
+nictitans,11,trial11a,Hogan,1944,1949,L,6
+nictitans,11,trial11a,Hogan,1950,1957,L,8
+nictitans,11,trial11a,Hogan,1959,1967,R,9
+nictitans,11,trial11a,Happiness,2808,2811,L,4
+nictitans,11,trial11a,Happiness,2827,2847,L,21
+nictitans,11,trial11a,Happiness,2952,2952,L,1
+nictitans,11,trial11a,Happiness,2954,2957,L,4
+nictitans,11,trial11b,Nzuk-ola,1669,1669,R,1
+nictitans,11,trial11b,Nzuk-ola,1675,1675,L,1
+nictitans,11,trial11b,Nzuk-ola,1677,1686,R,10
+nictitans,11,trial11b,Nzuk-ola,1707,1720,L,14
+nictitans,11,trial11b,Nzuk-ola,1721,1726,L,6
+nictitans,11,trial11b,Nzuk-ola,2084,2085,L,2
+nictitans,11,trial11b,Nzuk-ola,2091,2097,L,7
+nictitans,11,trial11b,Nzuk-ola,2098,2103,R,6
+nictitans,11,trial11c,Nzuk-ola,2339,2355,R,17
+nictitans,11,trial11c,Nzuk-ola,2356,2356,L,1
+nictitans,11,trial11c,Uche,3606,3625,R,20
+nictitans,11,trial11c,Uche,3628,3633,R,6
+nictitans,11,trial11c,Uche,3635,3645,L,11
+nictitans,11,trial11c,Uche,3646,3648,L,3
+nictitans,11,trial11c,Nzuk-ola,4170,4176,R,7
+nictitans,11,trial11c,Nzuk-ola,4177,4184,R,8
+nictitans,11,trial11c,Nzuk-ola,4186,4195,L,10
+nictitans,11,trial11c,Happiness,4360,4364,L,5
+nictitans,11,trial11c,Jojo,4586,4588,L,3
+nictitans,11,trial11c,Jojo,4589,4594,R,6
+nictitans,11,trial11c,Jojo,4595,4599,L,5
+nictitans,11,trial11c,Jojo,4611,4617,R,7
+nictitans,11,trial11c,Hogan,4758,4759,L,2
+nictitans,11,trial11c,Hogan,4760,4775,R,16
+nictitans,12,trial12b,Glory,3716,3722,L,7
+nictitans,12,trial12b,Glory,3729,3736,R,8
+nictitans,12,trial12b,Glory,3747,3749,L,3
+nictitans,12,trial12b,Glory,4032,4037,R,6
+nictitans,12,trial12b,Glory,4038,4045,L,8
+nictitans,12,trial12b,Ogoja,5321,5324,R,4
+nictitans,12,trial12b,Ogoja,5482,5484,R,3
+nictitans,12,trial12b,Ogoja,6085,6091,L,7
+nictitans,12,trial12b,Ogoja,6092,6098,R,7
+nictitans,12,trial12b,Ogoja,6099,6100,R,2
+nictitans,12,trial12b,Ogoja,6101,6104,R,4
+nictitans,12,trial12b,Ogoja,6105,6108,L,4
+nictitans,12,trial12b,Ogoja,6109,6110,L,2
+nictitans,12,trial12b,Ogoja,6290,6300,L,11
+nictitans,12,trial12b,Ogoja,6301,6311,R,11
+nictitans,12,trial12b,Ogoja,7945,7953,L,9
+nictitans,12,trial12b,Ogoja,10887,10895,L,9
+nictitans,12,trial12b,Ogoja,10896,10899,R,4
+nictitans,12,trial12b,Ogoja,10900,10915,L,16
+nictitans,12,trial12b,Ogoja,11132,11134,R,3
+nictitans,12,trial12b,Ogoja,11135,11138,L,4
+nictitans,12,trial12b,Ogoja,11139,11141,R,3
+nictitans,12,trial12b,Glory,12061,12062,R,2
+nictitans,12,trial12b,Glory,12063,12066,L,4
+nictitans,12,trial12b,Glory,15632,15635,R,4
+nictitans,12,trial12b,BB,17984,17984,R,1
+nictitans,12,trial12b,BB,17985,17994,L,10
+nictitans,12,trial12c,Glory,1434,1435,R,2
+nictitans,12,trial12c,Glory,1480,1495,R,16
+nictitans,12,trial12c,Glory,1502,1507,L,6
+nictitans,12,trial12c,Glory,1508,1512,L,5
+nictitans,12,trial12c,Glory,1714,1714,R,1
+nictitans,12,trial12c,Glory,1715,1720,R,6
+nictitans,12,trial12c,Glory,1722,1731,L,10
+nictitans,12,trial12c,Glory,1851,1856,R,6
+nictitans,12,trial12c,Glory,1862,1870,R,9
+nictitans,12,trial12c,Glory,1873,1878,L,6
+nictitans,12,trial12e,Amina,1836,1900,R,65
+nictitans,12,trial12e,Amina,1910,1917,L,8
+nictitans,12,trial12e,Amina,1918,1922,R,5
+nictitans,12,trial12e,Amina,1923,1936,R,14
+nictitans,12,trial12e,Amina,1937,1944,R,8
+nictitans,12,trial12e,Amina,2015,2024,L,10
+nictitans,12,trial12e,Amina,2025,2029,R,5
+nictitans,12,trial12e,Amina,2042,2044,L,3
+nictitans,12,trial12e,Amina,2045,2055,R,11
+nictitans,12,trial12e,Amina,2056,2063,L,8
+nictitans,12,trial12e,Amina,2064,2071,R,8
+nictitans,12,trial12e,Amina,2100,2105,L,6
+nictitans,12,trial12e,Amina,2106,2109,L,4
+nictitans,12,trial12f,Ogoja,992,992,L,1
+nictitans,12,trial12f,Ogoja,994,994,R,1
+nictitans,12,trial12f,Ogoja,998,998,R,1
+nictitans,12,trial12f,Ogoja,1048,1052,L,5
+nictitans,12,trial12f,Ogoja,1053,1058,R,6
+nictitans,12,trial12f,Ogoja,1374,1397,L,24
+nictitans,12,trial12f,Ogoja,1407,1407,R,1
+nictitans,12,trial12f,Ogoja,1426,1433,R,8
+nictitans,12,trial12f,Ogoja,1442,1453,R,12
+nictitans,12,trial12f,Ogoja,1459,1460,L,2
+nictitans,12,trial12f,Ogoja,1518,1526,L,9
+nictitans,12,trial12f,Ogoja,2044,2044,R,1
+nictitans,12,trial12f,Ogoja,2091,2101,R,11
+nictitans,12,trial12f,Ogoja,2260,2272,R,13
+nictitans,12,trial12f,Ogoja,2273,2277,L,5
+nictitans,12,trial12f,Ogoja,2284,2288,R,5
+nictitans,12,trial12f,Ogoja,2389,2391,R,3
+nictitans,12,trial12f,Ogoja,2516,2520,L,5
+nictitans,12,trial12f,Ogoja,2558,2560,L,3
+nictitans,12,trial12f,Ogoja,2562,2568,R,7
+nictitans,12,trial12f,Ogoja,2569,2576,L,8
+nictitans,12,trial12f,Ogoja,2577,2580,L,4
+nictitans,12,trial12g,BB,247,254,R,8
+nictitans,12,trial12g,Glory,494,519,R,26
+nictitans,12,trial12g,Glory,520,526,L,7
+nictitans,12,trial12g,Glory,527,535,R,9
+nictitans,12,trial12g,Glory,537,550,L,14
+nictitans,12,trial12g,BB,666,680,L,15
+nictitans,12,trial12g,BB,681,687,R,7
+nictitans,12,trial12g,BB,799,804,L,6
+nictitans,12,trial12g,BB,805,820,R,16
+nictitans,12,trial12g,Glory,1073,1077,L,5
+nictitans,12,trial12g,Glory,1078,1104,R,27
+nictitans,12,trial12h,Sagano,584,594,L,11
+nictitans,12,trial12h,Sagano,600,608,L,9
+nictitans,12,trial12h,Sagano,609,634,R,26
+nictitans,12,trial12h,Sagano,635,644,L,10
+nictitans,12,trial12h,Sagano,652,657,R,6
+nictitans,12,trial12h,Sagano,678,686,R,9
+nictitans,12,trial12h,Sagano,687,692,L,6
+nictitans,12,trial12h,Sagano,694,702,R,9
+nictitans,12,trial12h,Sagano,714,727,L,14
+nictitans,12,trial12h,Sagano,738,815,L,78
+nictitans,12,trial12h,Sagano,799,815,L,17
+nictitans,12,trial12h,Sagano,826,834,R,9
