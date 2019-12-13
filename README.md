@@ -1,5 +1,5 @@
 # guenon_looking_time
-R code implementing statistical analysis of guenon looking time data. For implementation details, see "Methods: Looking time experiments" in the paper below.
+R code implementing statistical analyses of guenon looking time data. For implementation details, see "Methods: Looking time experiments" in the paper below.
 
 Written by Sandra Winters <sandra.winters@bristol.ac.uk>
 
